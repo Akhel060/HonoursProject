@@ -1,0 +1,1001 @@
+User ID,Eye Color,Height,Skin Color,Ethnicity,Religion,Sexuality,Location,Body Type,Primary Language,Education Level,Income,Smoker,Drinker
+1,Blue,6.4,Brown,African,Agnostic,Other,Asia,Fat,English,University,184960,Yes,No
+2,Gray,4.7,White,African,Muslim,Other,Australia,Slim,Russian,High School Diploma,50786,No,Yes
+3,Other,4.5,Beige,American,Muslim,Other,Africa,Other,Arabic,High School Diploma,85038,No,No
+4,Gray,6.4,Black,English,Other,Other,Africa,Fit,English,Other,44874,Yes,Yes
+5,Yellow,5.8,Beige,Asian,Sikh,Female,America,Slim,English,Other,45658,No,Yes
+6,Blue,5.3,White,Arab,Atheist,Male,America,Skinny,Arabic,College,237918,Yes,Yes
+7,Other,6.4,Other,African American,Muslim,Female,Asia,Other,Russian,High School Diploma,297903,Yes,Yes
+8,Brown,5.2,Black,English,Hindu,Male,America,Other,English,High School Diploma,351348,Yes,No
+9,Hasel,5.9,Beige,Other,Christian,Female,America,Fat,Mandarin,College,294057,Yes,Yes
+10,Hasel,5.9,White,Arab,Buddhist,Other,Australia,Fit,French,College,320449,No,No
+11,Brown,6.0,Beige,Other,Sikh,Male,Europe,Slim,Mandarin,University,203119,No,Yes
+12,Brown,5.4,Black,American,Buddhist,Female,Australia,Fat,Arabic,College,256355,No,No
+13,Other,4.8,White,Other,Agnostic,Female,Asia,Fit,Russian,High School Diploma,125613,No,Yes
+14,Other,6.2,Black,Asian,Christian,Other,Asia,Fat,French,College,382600,No,No
+15,Hasel,4.8,Brown,Indigenous,Other,Male,Asia,Other,English,College,174436,No,No
+16,Hasel,5.6,Other,African American,Hindu,Other,Europe,Obese,Arabic,Other,358661,Yes,No
+17,Gray,5.9,White,Asian,Sikh,Other,Africa,Other,Mandarin,High School Diploma,182913,No,No
+18,Green,5.5,Brown,Indigenous,Agnostic,Male,America,Fit,Mandarin,Other,104081,Yes,No
+19,Hasel,5.7,White,Other,Other,Male,America,Skinny,Russian,High School Diploma,333344,No,No
+20,Other,6.2,Black,Other,Jewish,Female,Asia,Fat,Arabic,High School Diploma,215307,No,No
+21,Hasel,6.1,Brown,Indigenous,Buddhist,Male,America,Skinny,Arabic,College,376408,No,Yes
+22,Hasel,6.5,Other,African,Sikh,Female,Asia,Skinny,English,Other,235089,Yes,Yes
+23,Brown,6.0,White,Middle Eastern,Christian,Female,Australia,Fit,French,High School Diploma,133444,No,No
+24,Blue,4.6,Tanned,Asian,Other,Other,Asia,Obese,English,University,254707,Yes,Yes
+25,Hasel,4.6,Brown,English,Muslim,Female,Asia,Skinny,Russian,College,128124,No,No
+26,Brown,5.2,Tanned,Caucasian,Muslim,Male,America,Obese,Russian,Other,247142,Yes,Yes
+27,Brown,5.9,Beige,Caucasian,Christian,Female,Asia,Fit,French,College,184311,No,Yes
+28,Green,4.5,Brown,English,Buddhist,Male,Europe,Fit,English,College,193773,Yes,No
+29,Brown,5.3,Beige,African American,Muslim,Male,Australia,Fat,Mandarin,Other,332410,Yes,Yes
+30,Gray,6.2,Brown,Indigenous,Buddhist,Other,Other,Other,Russian,University,61679,Yes,Yes
+31,Other,5.6,Tanned,American,Hindu,Female,America,Obese,Russian,College,49816,Yes,Yes
+32,Hasel,5.1,Other,Hispanic,Agnostic,Male,Australia,Slim,Russian,College,267996,Yes,No
+33,Green,5.3,Brown,Arab,Sikh,Female,Africa,Obese,French,Other,153146,No,No
+34,Green,5.6,Brown,Indigenous,Jewish,Other,Australia,Obese,French,High School Diploma,82841,No,No
+35,Green,6.3,White,Asian,Sikh,Other,Australia,Fat,French,Other,331163,No,No
+36,Blue,4.5,Brown,English,Other,Male,Australia,Skinny,Mandarin,University,190781,Yes,Yes
+37,Yellow,5.8,Black,Arab,Sikh,Female,America,Obese,Russian,College,58944,Yes,Yes
+38,Hasel,5.6,Black,Caucasian,Sikh,Other,Other,Other,English,Other,105496,Yes,No
+39,Other,6.3,White,African,Hindu,Other,Europe,Fat,Arabic,Other,349918,No,Yes
+40,Gray,5.7,White,Middle Eastern,Jewish,Female,America,Slim,Arabic,University,372180,Yes,No
+41,Brown,4.9,White,American,Other,Female,Asia,Fit,French,Other,345661,Yes,Yes
+42,Blue,6.1,Beige,Other,Agnostic,Other,Asia,Slim,English,Other,130905,Yes,No
+43,Green,4.9,Tanned,Arab,Agnostic,Female,Africa,Skinny,Mandarin,Other,182248,Yes,No
+44,Yellow,5.2,White,Other,Sikh,Female,Other,Slim,French,High School Diploma,166620,Yes,No
+45,Gray,5.2,Other,Other,Agnostic,Female,Europe,Fat,English,College,341715,Yes,Yes
+46,Blue,6.3,Beige,Hispanic,Hindu,Other,Other,Fat,Russian,Other,292368,Yes,Yes
+47,Hasel,4.6,Beige,Arab,Atheist,Male,Australia,Fit,Russian,Other,220442,No,No
+48,Blue,5.2,Other,Middle Eastern,Sikh,Female,Australia,Slim,Russian,Other,213393,No,Yes
+49,Blue,4.6,Brown,Caucasian,Jewish,Male,Asia,Other,French,High School Diploma,180200,No,No
+50,Brown,4.7,Brown,Hispanic,Jewish,Male,Other,Other,Russian,University,106601,Yes,Yes
+51,Yellow,5.5,Other,Asian,Other,Female,Other,Fit,French,Other,262005,Yes,No
+52,Blue,5.9,Black,Middle Eastern,Christian,Female,Asia,Fat,Russian,Other,144917,No,No
+53,Blue,5.1,Black,Indigenous,Sikh,Other,Europe,Obese,Russian,Other,387618,No,No
+54,Green,5.1,White,Indigenous,Atheist,Other,Asia,Fit,Russian,College,69967,Yes,No
+55,Gray,6.0,Black,Other,Sikh,Female,Australia,Skinny,Arabic,High School Diploma,302735,No,Yes
+56,Green,5.1,Tanned,Middle Eastern,Other,Male,Other,Fit,Mandarin,University,296823,No,Yes
+57,Hasel,5.0,Black,Other,Sikh,Male,Europe,Fit,Mandarin,High School Diploma,242256,No,Yes
+58,Blue,5.6,Black,Middle Eastern,Christian,Female,Africa,Other,Russian,Other,155050,No,Yes
+59,Yellow,5.5,Beige,Asian,Muslim,Other,Europe,Obese,English,Other,220562,No,Yes
+60,Brown,5.3,Other,Asian,Agnostic,Male,Australia,Fit,English,University,147347,Yes,No
+61,Green,5.4,Tanned,African American,Christian,Other,America,Skinny,Arabic,College,258825,Yes,No
+62,Other,5.0,Beige,African American,Buddhist,Other,Europe,Fat,Arabic,University,182215,No,No
+63,Green,5.4,Tanned,American,Jewish,Other,Asia,Obese,Arabic,College,138456,Yes,No
+64,Other,4.7,Other,American,Muslim,Male,Europe,Slim,Arabic,College,319028,No,Yes
+65,Brown,5.0,Beige,Other,Buddhist,Male,Asia,Other,Russian,Other,350103,No,Yes
+66,Brown,5.6,Brown,Asian,Atheist,Female,Europe,Obese,Arabic,University,275468,Yes,Yes
+67,Hasel,5.0,Brown,Arab,Jewish,Male,Other,Slim,English,University,75508,Yes,No
+68,Other,5.8,Beige,American,Hindu,Male,Other,Fat,French,Other,127599,No,No
+69,Hasel,6.3,Other,African American,Agnostic,Other,Other,Skinny,English,Other,370425,No,Yes
+70,Hasel,6.0,Tanned,English,Muslim,Male,Africa,Slim,Arabic,Other,252038,Yes,Yes
+71,Hasel,4.7,Beige,Caucasian,Jewish,Female,Africa,Fat,Mandarin,College,199054,No,No
+72,Hasel,4.9,Black,Arab,Christian,Female,Africa,Slim,Russian,Other,154473,No,Yes
+73,Blue,4.5,Beige,African,Atheist,Other,Australia,Slim,Mandarin,University,309266,No,No
+74,Gray,5.4,Black,Asian,Jewish,Male,Africa,Slim,French,College,49057,No,No
+75,Other,6.2,Tanned,Caucasian,Hindu,Female,Asia,Fat,Russian,College,266485,No,No
+76,Green,5.3,Tanned,Arab,Agnostic,Female,Asia,Slim,Russian,University,123307,Yes,No
+77,Other,6.3,White,English,Atheist,Female,Africa,Skinny,English,University,90009,Yes,No
+78,Gray,5.8,Other,Asian,Buddhist,Female,Australia,Fit,Russian,College,195588,Yes,Yes
+79,Blue,5.0,Black,English,Atheist,Male,America,Fat,French,High School Diploma,343165,No,Yes
+80,Brown,5.9,White,Other,Jewish,Other,Other,Slim,Russian,University,283936,No,No
+81,Brown,6.1,Beige,Other,Hindu,Female,Australia,Fat,Arabic,College,45373,No,Yes
+82,Other,6.1,Brown,African American,Agnostic,Male,Other,Obese,English,Other,258124,Yes,Yes
+83,Other,5.9,Other,English,Hindu,Female,America,Fat,English,Other,203278,No,No
+84,Blue,6.2,Beige,Caucasian,Atheist,Other,Asia,Fit,Mandarin,University,185919,Yes,Yes
+85,Gray,6.2,White,American,Jewish,Other,Other,Skinny,Russian,University,70444,Yes,Yes
+86,Hasel,5.3,Tanned,African,Christian,Female,Africa,Skinny,Mandarin,College,278552,Yes,No
+87,Blue,4.6,Beige,Asian,Buddhist,Male,Africa,Obese,English,High School Diploma,255725,Yes,No
+88,Gray,6.0,Beige,American,Agnostic,Other,Africa,Obese,French,High School Diploma,72595,Yes,No
+89,Blue,5.1,Brown,American,Sikh,Female,Other,Fit,Russian,College,218309,Yes,No
+90,Brown,5.6,Tanned,Asian,Hindu,Female,Other,Other,French,High School Diploma,91486,No,No
+91,Hasel,6.3,Other,Indigenous,Hindu,Male,America,Fit,French,Other,371195,Yes,No
+92,Gray,4.7,Beige,African American,Sikh,Other,Australia,Fat,Arabic,University,237721,No,Yes
+93,Green,5.7,White,African,Atheist,Other,Europe,Skinny,Arabic,High School Diploma,178324,No,Yes
+94,Other,6.2,Black,African American,Atheist,Female,Other,Slim,Russian,University,371282,No,No
+95,Blue,5.1,Other,Hispanic,Jewish,Other,Other,Fit,Arabic,Other,205165,Yes,Yes
+96,Green,6.3,White,English,Hindu,Other,Africa,Fit,French,University,329045,Yes,No
+97,Yellow,6.2,Beige,African,Muslim,Other,Asia,Obese,Arabic,Other,335899,No,Yes
+98,Other,6.1,Other,American,Jewish,Other,Asia,Skinny,English,University,208674,Yes,No
+99,Yellow,5.6,Black,Arab,Muslim,Other,Europe,Slim,English,College,275433,Yes,Yes
+100,Hasel,5.0,White,Middle Eastern,Jewish,Other,Asia,Skinny,French,College,46172,No,No
+101,Other,5.3,Black,Arab,Buddhist,Other,America,Fat,Mandarin,Other,143264,No,No
+102,Other,6.2,Brown,Middle Eastern,Hindu,Male,Africa,Fit,Mandarin,Other,316331,Yes,Yes
+103,Other,4.7,Tanned,Indigenous,Hindu,Other,Africa,Fat,Russian,High School Diploma,381245,Yes,Yes
+104,Green,5.4,Other,African,Hindu,Male,America,Skinny,Russian,Other,294044,Yes,Yes
+105,Hasel,6.2,Other,Indigenous,Atheist,Other,Africa,Skinny,Arabic,High School Diploma,354239,No,Yes
+106,Gray,4.7,Brown,Other,Christian,Male,Africa,Obese,Arabic,University,399791,No,Yes
+107,Brown,4.8,Black,Other,Other,Other,Asia,Fit,Arabic,High School Diploma,72235,Yes,Yes
+108,Other,5.7,Black,Hispanic,Hindu,Female,Other,Fit,Mandarin,University,156817,Yes,No
+109,Other,4.7,Tanned,Hispanic,Hindu,Other,Europe,Other,Mandarin,University,115970,No,Yes
+110,Blue,5.1,Brown,Asian,Muslim,Other,Africa,Skinny,Arabic,Other,209403,No,Yes
+111,Brown,5.4,White,Asian,Jewish,Male,Asia,Fit,French,College,40006,Yes,No
+112,Gray,4.9,Brown,Middle Eastern,Buddhist,Male,Asia,Fit,Russian,College,41791,No,Yes
+113,Brown,5.8,Black,Middle Eastern,Other,Other,Other,Skinny,Russian,University,364916,No,No
+114,Blue,4.9,Other,Asian,Agnostic,Other,Europe,Obese,Arabic,Other,208806,Yes,No
+115,Green,6.0,Beige,Other,Hindu,Female,Africa,Fat,Arabic,High School Diploma,250583,Yes,No
+116,Hasel,5.9,Tanned,Caucasian,Other,Other,Asia,Fit,Arabic,Other,362614,No,No
+117,Hasel,5.5,Brown,Other,Christian,Female,Africa,Other,Russian,High School Diploma,292263,Yes,No
+118,Green,6.0,Brown,Indigenous,Sikh,Female,Other,Slim,English,Other,224429,Yes,Yes
+119,Green,6.5,Black,Hispanic,Christian,Female,Other,Obese,French,High School Diploma,216929,No,No
+120,Other,6.4,Other,English,Christian,Male,Europe,Other,English,College,50768,Yes,No
+121,Blue,4.7,Brown,Hispanic,Agnostic,Other,Africa,Obese,French,High School Diploma,310302,Yes,Yes
+122,Gray,4.7,Other,African,Jewish,Other,Australia,Other,French,Other,224802,No,Yes
+123,Blue,4.9,Other,Caucasian,Atheist,Female,Africa,Other,Russian,Other,392475,No,Yes
+124,Other,4.8,Brown,Arab,Sikh,Female,Africa,Fit,French,University,132345,Yes,No
+125,Blue,5.7,Brown,Arab,Buddhist,Other,Asia,Fat,French,Other,179431,No,Yes
+126,Yellow,5.9,Tanned,Caucasian,Hindu,Other,Africa,Fat,English,High School Diploma,290613,No,No
+127,Yellow,5.3,Black,Indigenous,Muslim,Female,Africa,Other,Arabic,High School Diploma,150151,Yes,No
+128,Blue,5.9,Other,Middle Eastern,Christian,Other,Australia,Other,Russian,College,83659,No,Yes
+129,Gray,4.7,Other,Other,Other,Other,Other,Other,French,Other,368425,No,Yes
+130,Hasel,4.7,Black,Other,Muslim,Other,Asia,Obese,English,Other,178429,No,Yes
+131,Other,6.0,Black,American,Hindu,Male,Australia,Slim,English,Other,190388,Yes,Yes
+132,Blue,4.8,Brown,American,Agnostic,Male,Australia,Skinny,French,University,70692,No,No
+133,Brown,6.1,Tanned,Middle Eastern,Other,Other,America,Fat,Russian,University,323518,No,Yes
+134,Hasel,6.4,White,American,Jewish,Female,Other,Fat,Arabic,College,123701,No,No
+135,Brown,4.8,Black,African American,Buddhist,Female,Australia,Slim,Russian,Other,168156,Yes,No
+136,Other,6.1,White,Middle Eastern,Jewish,Other,Australia,Skinny,French,High School Diploma,93271,Yes,No
+137,Other,5.2,Black,Asian,Other,Other,America,Slim,English,High School Diploma,136383,Yes,No
+138,Blue,4.9,Brown,Other,Muslim,Other,Asia,Obese,Mandarin,University,189352,Yes,No
+139,Brown,5.5,Beige,African,Muslim,Female,Africa,Fit,Arabic,College,339629,Yes,Yes
+140,Other,6.3,Other,Hispanic,Agnostic,Male,America,Obese,French,University,319763,Yes,No
+141,Yellow,5.8,White,African,Christian,Other,Other,Skinny,French,University,116644,Yes,Yes
+142,Other,5.8,Tanned,Indigenous,Other,Other,Australia,Slim,French,Other,132952,Yes,Yes
+143,Yellow,5.2,Beige,African American,Atheist,Female,Europe,Fat,Russian,Other,202539,Yes,No
+144,Green,6.0,Beige,Other,Buddhist,Other,America,Fat,French,College,239855,Yes,Yes
+145,Hasel,5.6,Black,American,Hindu,Other,Africa,Fat,Russian,University,261099,Yes,No
+146,Blue,6.2,Brown,Arab,Agnostic,Female,Africa,Other,English,University,244359,Yes,Yes
+147,Gray,5.6,Other,American,Buddhist,Female,Europe,Obese,English,College,182058,Yes,Yes
+148,Gray,4.9,Tanned,American,Atheist,Male,Europe,Obese,Russian,College,41116,Yes,No
+149,Blue,4.6,Beige,English,Christian,Female,America,Fat,Mandarin,Other,201547,No,No
+150,Gray,5.9,White,Middle Eastern,Buddhist,Male,Asia,Fit,Mandarin,University,351145,No,No
+151,Hasel,4.8,Other,American,Muslim,Male,Australia,Skinny,Mandarin,University,297848,No,Yes
+152,Hasel,6.3,Black,African,Christian,Male,America,Skinny,English,University,219507,Yes,No
+153,Yellow,4.9,Tanned,Arab,Hindu,Female,Europe,Skinny,Mandarin,High School Diploma,242102,Yes,Yes
+154,Other,5.3,Other,Caucasian,Atheist,Female,America,Fat,Russian,Other,336341,Yes,No
+155,Yellow,5.7,Other,English,Other,Other,Asia,Fit,English,High School Diploma,103165,Yes,Yes
+156,Blue,5.8,Black,Indigenous,Hindu,Male,Other,Skinny,Russian,University,115442,No,No
+157,Other,4.7,Beige,Arab,Atheist,Female,Australia,Fit,Mandarin,Other,207257,Yes,No
+158,Yellow,4.8,Tanned,Arab,Christian,Male,Europe,Obese,Mandarin,High School Diploma,83304,Yes,Yes
+159,Gray,6.0,Beige,American,Other,Male,Asia,Fat,English,University,248143,Yes,No
+160,Green,5.8,White,Caucasian,Hindu,Other,Europe,Obese,English,Other,262928,Yes,Yes
+161,Other,5.0,White,African American,Agnostic,Female,Australia,Fat,French,College,156843,No,Yes
+162,Hasel,6.3,Beige,African,Sikh,Female,America,Fat,Russian,Other,315537,No,No
+163,Brown,5.5,Brown,African American,Sikh,Other,Europe,Obese,French,Other,126707,No,No
+164,Gray,5.2,Brown,African American,Hindu,Other,Australia,Skinny,Mandarin,High School Diploma,294695,No,No
+165,Other,4.8,Beige,Arab,Muslim,Female,Africa,Slim,English,College,314418,No,No
+166,Brown,5.5,White,African,Sikh,Other,Asia,Other,Russian,Other,141312,Yes,Yes
+167,Hasel,5.8,Black,African,Hindu,Other,Other,Fit,Arabic,High School Diploma,147652,No,No
+168,Yellow,5.4,White,English,Other,Male,Africa,Fat,French,University,296635,No,No
+169,Hasel,5.6,Black,African,Jewish,Other,Europe,Slim,Russian,University,255753,No,Yes
+170,Gray,5.4,Other,English,Buddhist,Male,Other,Skinny,Mandarin,High School Diploma,357666,No,No
+171,Blue,4.8,Beige,American,Agnostic,Other,Other,Fat,Arabic,University,287140,No,No
+172,Yellow,6.2,Tanned,English,Buddhist,Male,America,Other,English,University,275354,No,Yes
+173,Green,5.4,Brown,English,Hindu,Male,Asia,Skinny,English,Other,201273,No,Yes
+174,Blue,6.0,Beige,Indigenous,Hindu,Other,Other,Fat,Russian,Other,103683,Yes,Yes
+175,Gray,6.0,Other,Arab,Atheist,Male,Asia,Other,French,Other,266553,No,No
+176,Yellow,5.1,White,Caucasian,Hindu,Female,Other,Fit,Arabic,High School Diploma,218297,Yes,No
+177,Brown,5.4,Other,Hispanic,Jewish,Other,Asia,Other,Arabic,High School Diploma,393782,Yes,Yes
+178,Other,5.1,Black,English,Atheist,Male,Asia,Fit,English,University,322495,No,No
+179,Hasel,4.7,Tanned,Caucasian,Christian,Male,Africa,Fit,Mandarin,College,342419,No,No
+180,Gray,4.8,Tanned,Hispanic,Sikh,Male,Asia,Fat,English,High School Diploma,296306,Yes,No
+181,Gray,5.1,Tanned,Caucasian,Buddhist,Male,Europe,Skinny,Arabic,University,40172,No,Yes
+182,Blue,6.4,Black,Other,Agnostic,Other,Other,Slim,Russian,Other,262371,No,No
+183,Yellow,5.8,Tanned,Arab,Hindu,Male,Africa,Other,French,College,207369,No,Yes
+184,Brown,5.7,White,African,Other,Other,Europe,Fit,Russian,Other,227543,Yes,No
+185,Green,4.9,Beige,Other,Hindu,Male,Other,Obese,English,High School Diploma,314486,Yes,No
+186,Blue,5.3,Beige,Hispanic,Christian,Male,America,Skinny,English,College,137199,No,Yes
+187,Hasel,5.3,White,Other,Muslim,Female,Africa,Other,English,High School Diploma,248347,Yes,No
+188,Brown,5.7,White,English,Agnostic,Other,Africa,Fit,Mandarin,Other,302526,Yes,No
+189,Hasel,5.6,White,Middle Eastern,Atheist,Female,Australia,Slim,Arabic,University,318913,No,Yes
+190,Brown,6.5,White,Arab,Other,Male,Australia,Slim,Mandarin,University,232926,No,Yes
+191,Green,6.0,Brown,African,Atheist,Female,Europe,Obese,English,High School Diploma,332324,Yes,Yes
+192,Hasel,5.0,Tanned,Indigenous,Other,Male,Australia,Fit,Russian,High School Diploma,379310,Yes,Yes
+193,Green,5.3,Beige,Hispanic,Atheist,Male,Australia,Fat,Arabic,Other,331761,No,No
+194,Yellow,4.6,Tanned,African,Hindu,Male,Other,Slim,Mandarin,Other,183399,Yes,Yes
+195,Brown,6.1,Brown,English,Agnostic,Female,Australia,Fat,English,University,42951,No,No
+196,Yellow,6.3,Black,Caucasian,Christian,Male,America,Fat,Russian,University,322593,No,Yes
+197,Other,5.9,Beige,African,Sikh,Male,Australia,Slim,Russian,University,272133,No,No
+198,Gray,4.9,Tanned,Hispanic,Other,Male,America,Fit,Mandarin,College,133644,Yes,Yes
+199,Yellow,6.4,Brown,Hispanic,Agnostic,Other,America,Fat,Mandarin,High School Diploma,201404,Yes,Yes
+200,Other,6.4,Brown,African American,Other,Male,Africa,Fat,Mandarin,University,293089,No,Yes
+201,Gray,5.5,Black,American,Buddhist,Other,Australia,Obese,English,Other,214499,Yes,Yes
+202,Yellow,5.5,Tanned,English,Jewish,Other,Europe,Fat,Arabic,College,112149,No,No
+203,Hasel,6.3,Other,Hispanic,Buddhist,Other,Africa,Obese,Mandarin,Other,371140,Yes,Yes
+204,Brown,5.1,White,Asian,Atheist,Male,Africa,Fit,Arabic,Other,318240,No,No
+205,Blue,5.0,Other,English,Other,Female,America,Fit,Arabic,College,240877,No,No
+206,Yellow,5.2,Beige,Indigenous,Agnostic,Female,Asia,Skinny,Mandarin,University,362430,Yes,No
+207,Green,6.0,Beige,English,Sikh,Male,Asia,Fat,Russian,College,138611,No,Yes
+208,Hasel,5.8,White,Indigenous,Atheist,Male,Australia,Other,Russian,College,256115,Yes,Yes
+209,Brown,5.4,Other,Asian,Buddhist,Other,Other,Other,Russian,Other,313297,No,No
+210,Green,6.5,White,Hispanic,Sikh,Female,Europe,Other,French,Other,147084,Yes,No
+211,Other,4.9,Black,Middle Eastern,Jewish,Male,Australia,Skinny,Mandarin,Other,68429,No,Yes
+212,Gray,5.0,Tanned,African American,Atheist,Male,Europe,Obese,Russian,Other,388004,Yes,Yes
+213,Yellow,5.0,Other,Asian,Jewish,Male,Other,Skinny,Mandarin,Other,115807,Yes,Yes
+214,Hasel,5.3,Black,Asian,Jewish,Male,America,Other,Arabic,College,141769,No,Yes
+215,Yellow,4.5,Brown,African,Christian,Other,Africa,Obese,English,University,377383,Yes,No
+216,Blue,5.0,Black,American,Sikh,Female,Asia,Skinny,English,High School Diploma,289706,No,Yes
+217,Blue,5.7,Other,Caucasian,Hindu,Male,Europe,Fit,Arabic,College,215342,Yes,Yes
+218,Brown,5.1,White,African American,Hindu,Female,Australia,Fit,Arabic,Other,249219,Yes,Yes
+219,Other,5.3,Black,American,Jewish,Other,Other,Skinny,Mandarin,High School Diploma,398347,Yes,Yes
+220,Other,4.9,Other,Indigenous,Muslim,Other,Other,Other,Arabic,Other,264037,No,No
+221,Blue,6.0,Tanned,Middle Eastern,Agnostic,Female,Africa,Other,Arabic,University,137711,Yes,No
+222,Green,5.1,Beige,Asian,Jewish,Female,Asia,Obese,French,University,283599,Yes,Yes
+223,Gray,5.7,Brown,American,Muslim,Female,America,Obese,Mandarin,College,78094,No,Yes
+224,Hasel,4.8,White,African American,Other,Female,Other,Skinny,English,University,253794,No,No
+225,Gray,5.3,Beige,Middle Eastern,Sikh,Male,Europe,Slim,Russian,High School Diploma,342152,Yes,No
+226,Brown,5.2,Other,Indigenous,Sikh,Female,Africa,Fit,Arabic,Other,63567,Yes,Yes
+227,Yellow,4.9,White,Arab,Christian,Other,Other,Obese,Arabic,College,255160,No,No
+228,Green,5.6,Brown,English,Sikh,Female,Africa,Skinny,Arabic,Other,147730,No,No
+229,Brown,4.8,Other,African American,Sikh,Other,Other,Fat,French,College,333004,Yes,No
+230,Green,5.8,White,African American,Agnostic,Other,America,Fit,French,University,319304,No,No
+231,Blue,5.2,Other,Middle Eastern,Muslim,Male,Other,Skinny,French,University,337260,No,Yes
+232,Gray,6.4,Tanned,Asian,Jewish,Female,Australia,Obese,English,College,322615,No,Yes
+233,Yellow,5.5,Beige,Arab,Muslim,Other,Other,Other,English,University,210116,No,No
+234,Gray,5.4,Black,Caucasian,Other,Male,Australia,Skinny,Russian,University,286246,No,No
+235,Other,5.1,Brown,Arab,Hindu,Male,Other,Fat,French,High School Diploma,85524,Yes,Yes
+236,Hasel,6.4,Beige,Middle Eastern,Buddhist,Female,Europe,Obese,Arabic,High School Diploma,387233,No,Yes
+237,Other,5.0,Tanned,American,Muslim,Male,Asia,Fat,Russian,High School Diploma,52681,Yes,No
+238,Blue,6.2,Other,English,Hindu,Female,Europe,Obese,Arabic,University,169080,Yes,Yes
+239,Gray,5.2,White,Indigenous,Buddhist,Other,America,Obese,English,University,254620,No,Yes
+240,Gray,5.5,Beige,Hispanic,Hindu,Other,Africa,Fat,English,College,384350,No,No
+241,Gray,6.1,Beige,Asian,Jewish,Male,Australia,Fit,Mandarin,College,243397,No,Yes
+242,Yellow,5.1,Tanned,African,Sikh,Other,Other,Other,Russian,Other,112250,Yes,Yes
+243,Hasel,5.6,Beige,African American,Muslim,Male,Europe,Fat,Arabic,High School Diploma,192296,Yes,No
+244,Gray,5.1,Black,Indigenous,Jewish,Other,Europe,Obese,Mandarin,College,225484,No,No
+245,Blue,5.3,Brown,Asian,Jewish,Other,Australia,Other,Mandarin,University,65403,No,Yes
+246,Green,5.9,Brown,African,Hindu,Female,Other,Fat,French,Other,212598,Yes,No
+247,Hasel,5.1,Beige,Other,Christian,Female,Africa,Fit,Mandarin,High School Diploma,290385,Yes,Yes
+248,Hasel,4.7,White,Caucasian,Sikh,Female,America,Fit,English,University,189787,Yes,Yes
+249,Green,5.0,Brown,Caucasian,Agnostic,Female,Europe,Slim,Arabic,Other,378177,Yes,No
+250,Yellow,5.1,Brown,Other,Buddhist,Female,America,Other,Russian,University,98494,Yes,No
+251,Gray,5.9,White,African,Jewish,Female,Europe,Other,Arabic,College,202504,Yes,No
+252,Green,6.0,Beige,Hispanic,Other,Other,Europe,Slim,English,Other,41764,Yes,Yes
+253,Gray,5.2,Brown,Hispanic,Agnostic,Female,Asia,Obese,Mandarin,Other,269057,No,No
+254,Blue,4.8,Black,American,Muslim,Male,Europe,Skinny,Mandarin,High School Diploma,325810,No,No
+255,Brown,6.3,Tanned,Middle Eastern,Other,Female,Asia,Fat,French,College,129572,No,Yes
+256,Yellow,4.7,White,Asian,Hindu,Male,Australia,Skinny,Russian,High School Diploma,294252,Yes,Yes
+257,Yellow,5.9,Other,African American,Buddhist,Male,Africa,Slim,Mandarin,College,347348,No,No
+258,Other,6.0,White,Middle Eastern,Other,Male,Asia,Fit,English,High School Diploma,65447,Yes,No
+259,Hasel,5.7,Black,Asian,Atheist,Female,Asia,Other,English,High School Diploma,325959,No,Yes
+260,Green,5.9,Tanned,Asian,Sikh,Other,Europe,Other,Mandarin,College,45788,Yes,Yes
+261,Hasel,6.0,Beige,Other,Hindu,Male,Asia,Slim,Arabic,Other,365048,Yes,Yes
+262,Blue,6.4,White,Arab,Muslim,Male,Africa,Slim,Arabic,University,277498,Yes,Yes
+263,Hasel,5.0,White,Hispanic,Muslim,Female,Australia,Skinny,Russian,University,203091,Yes,Yes
+264,Blue,5.9,Other,American,Jewish,Female,Asia,Fit,Arabic,High School Diploma,77355,No,No
+265,Green,5.7,Other,Other,Christian,Male,Africa,Fit,Arabic,High School Diploma,145775,No,No
+266,Blue,5.3,Black,Other,Christian,Other,Asia,Obese,Russian,College,61559,No,Yes
+267,Green,4.6,Other,Arab,Muslim,Male,Asia,Fat,Mandarin,College,119293,Yes,Yes
+268,Gray,6.0,Beige,African,Atheist,Male,Australia,Fat,French,College,240329,No,Yes
+269,Hasel,5.7,Tanned,American,Jewish,Male,Other,Slim,Arabic,Other,337098,Yes,Yes
+270,Green,4.5,Other,Arab,Buddhist,Male,Australia,Skinny,English,Other,162453,No,Yes
+271,Brown,6.0,White,English,Other,Other,Europe,Fit,Russian,High School Diploma,272254,No,No
+272,Green,5.9,Brown,English,Other,Other,Africa,Slim,Russian,High School Diploma,106847,Yes,Yes
+273,Gray,6.1,White,Caucasian,Jewish,Male,Asia,Skinny,English,College,85748,Yes,No
+274,Brown,5.3,Brown,African,Buddhist,Other,Asia,Fit,Mandarin,College,52344,Yes,No
+275,Hasel,5.7,Tanned,Asian,Muslim,Male,Africa,Other,Mandarin,College,214806,Yes,Yes
+276,Yellow,5.0,White,Indigenous,Muslim,Male,Other,Fat,Russian,College,314535,No,Yes
+277,Green,4.5,Other,American,Hindu,Other,Europe,Fat,French,Other,91453,Yes,No
+278,Blue,6.1,Other,African American,Buddhist,Male,America,Obese,Mandarin,Other,288798,No,Yes
+279,Other,5.3,Tanned,English,Christian,Male,America,Other,Russian,University,71312,No,Yes
+280,Brown,4.6,White,Caucasian,Atheist,Male,Asia,Slim,French,Other,216670,No,Yes
+281,Hasel,5.4,Beige,Asian,Atheist,Male,Africa,Fit,French,University,103309,No,No
+282,Green,5.7,White,Arab,Other,Male,Other,Skinny,English,High School Diploma,397984,No,Yes
+283,Hasel,5.6,Tanned,Hispanic,Atheist,Male,Asia,Fat,English,College,287076,Yes,No
+284,Gray,5.1,White,African American,Buddhist,Other,Europe,Other,French,College,75030,No,Yes
+285,Green,4.5,White,Asian,Sikh,Other,Other,Other,French,College,312492,Yes,Yes
+286,Brown,5.5,Tanned,English,Agnostic,Other,America,Slim,Arabic,Other,232026,Yes,No
+287,Brown,5.1,Beige,Indigenous,Jewish,Male,America,Fit,English,Other,178118,Yes,No
+288,Blue,5.8,Black,Asian,Buddhist,Male,Australia,Obese,Russian,Other,328510,No,No
+289,Yellow,6.1,Other,Caucasian,Muslim,Other,America,Other,Arabic,College,387267,Yes,No
+290,Other,5.1,Other,Asian,Muslim,Male,Asia,Fit,English,High School Diploma,80481,Yes,No
+291,Gray,5.2,Other,English,Other,Female,Africa,Other,English,Other,63405,No,No
+292,Gray,4.6,White,Hispanic,Agnostic,Male,Australia,Skinny,Arabic,College,186068,No,No
+293,Brown,5.6,Black,African American,Muslim,Other,Africa,Fit,French,College,125725,Yes,No
+294,Hasel,4.8,Tanned,American,Other,Male,America,Obese,French,High School Diploma,169236,Yes,Yes
+295,Blue,5.5,Brown,Middle Eastern,Hindu,Other,Australia,Skinny,French,College,277572,Yes,No
+296,Green,5.9,Brown,American,Muslim,Female,America,Fit,Mandarin,University,333902,No,Yes
+297,Blue,5.8,White,Other,Buddhist,Other,Other,Obese,Arabic,High School Diploma,289669,No,Yes
+298,Other,5.1,Other,Other,Agnostic,Male,Other,Other,Mandarin,University,331791,Yes,No
+299,Brown,5.8,White,Asian,Muslim,Other,Africa,Fat,Russian,University,98939,No,No
+300,Gray,4.9,Brown,Caucasian,Christian,Female,America,Obese,Arabic,Other,173090,No,Yes
+301,Yellow,4.9,Other,Asian,Christian,Female,Asia,Other,Russian,High School Diploma,298312,No,Yes
+302,Green,5.6,Other,African,Hindu,Female,Africa,Slim,Mandarin,Other,334571,No,Yes
+303,Other,5.8,Tanned,Asian,Other,Other,Other,Fit,Arabic,University,41791,No,No
+304,Gray,5.0,Tanned,African American,Buddhist,Female,America,Obese,Arabic,High School Diploma,282099,No,Yes
+305,Blue,6.1,Beige,Arab,Other,Male,Asia,Slim,French,High School Diploma,186560,Yes,Yes
+306,Gray,6.2,Brown,Asian,Muslim,Male,Europe,Fat,Russian,University,276127,Yes,No
+307,Brown,4.8,White,Asian,Hindu,Female,Africa,Skinny,Arabic,High School Diploma,373519,Yes,Yes
+308,Other,5.7,White,Middle Eastern,Jewish,Other,Asia,Slim,French,High School Diploma,350162,Yes,Yes
+309,Gray,5.7,Brown,Middle Eastern,Christian,Other,Asia,Fat,Arabic,University,290583,Yes,Yes
+310,Other,6.2,Brown,African American,Sikh,Female,Asia,Slim,Mandarin,Other,336222,No,Yes
+311,Blue,4.6,Black,African,Hindu,Other,Australia,Other,Arabic,Other,268717,Yes,Yes
+312,Hasel,5.4,Brown,Arab,Buddhist,Male,America,Other,English,Other,348785,No,No
+313,Other,5.2,Beige,African,Atheist,Other,Other,Obese,French,College,178560,No,No
+314,Other,6.4,White,Indigenous,Agnostic,Male,America,Skinny,French,University,332126,No,No
+315,Gray,5.6,Beige,Caucasian,Agnostic,Other,Australia,Fit,Russian,University,250164,No,Yes
+316,Yellow,5.3,Other,African,Atheist,Male,America,Other,French,College,255768,No,Yes
+317,Yellow,6.2,White,English,Agnostic,Female,Australia,Other,English,College,155976,Yes,No
+318,Hasel,6.3,Tanned,Arab,Hindu,Female,Australia,Fit,Mandarin,High School Diploma,338021,No,No
+319,Yellow,6.4,Beige,English,Atheist,Female,Europe,Skinny,English,Other,75388,No,Yes
+320,Yellow,5.5,White,American,Sikh,Other,America,Other,French,High School Diploma,373158,No,No
+321,Yellow,5.5,Tanned,Caucasian,Other,Other,Other,Skinny,English,High School Diploma,222003,No,Yes
+322,Other,6.5,Other,American,Jewish,Male,Asia,Fit,English,Other,77556,No,No
+323,Brown,5.6,White,Arab,Other,Other,Africa,Skinny,Mandarin,University,372871,No,Yes
+324,Other,5.9,Black,Indigenous,Agnostic,Other,Asia,Fat,French,Other,149726,No,No
+325,Yellow,5.6,White,Caucasian,Hindu,Other,Australia,Slim,Arabic,University,101583,No,No
+326,Hasel,5.0,Beige,Hispanic,Agnostic,Male,Europe,Obese,English,University,316619,No,No
+327,Yellow,5.6,Other,Indigenous,Atheist,Female,Other,Skinny,English,University,146543,Yes,Yes
+328,Hasel,4.9,Tanned,Arab,Other,Female,Other,Slim,English,Other,189854,No,Yes
+329,Blue,5.6,Tanned,American,Christian,Male,Asia,Fit,Arabic,University,289599,No,Yes
+330,Gray,5.8,Tanned,African American,Agnostic,Male,Europe,Obese,Russian,Other,271335,Yes,No
+331,Hasel,6.0,Brown,Asian,Hindu,Male,Africa,Slim,English,University,339868,No,Yes
+332,Gray,4.7,White,African American,Muslim,Other,Australia,Fit,English,High School Diploma,270162,No,Yes
+333,Green,5.3,White,Indigenous,Christian,Other,America,Slim,French,College,385798,Yes,Yes
+334,Other,5.5,Beige,Asian,Agnostic,Female,Europe,Other,English,Other,132589,Yes,No
+335,Hasel,5.2,Other,Hispanic,Hindu,Male,Africa,Skinny,Russian,University,245711,Yes,No
+336,Brown,4.8,Other,Indigenous,Jewish,Male,Europe,Obese,English,University,242361,No,No
+337,Hasel,5.5,Tanned,Arab,Sikh,Female,America,Fat,English,High School Diploma,188478,No,No
+338,Hasel,6.2,Tanned,African American,Other,Male,Other,Skinny,English,College,223356,Yes,No
+339,Gray,6.0,Tanned,African American,Christian,Other,Africa,Fat,Russian,College,322426,No,Yes
+340,Yellow,5.4,Brown,African American,Jewish,Male,Other,Other,Mandarin,High School Diploma,369686,Yes,Yes
+341,Brown,6.2,Brown,Indigenous,Sikh,Other,Other,Fat,Mandarin,College,181556,No,No
+342,Blue,4.7,Tanned,African American,Muslim,Male,Australia,Slim,French,College,268431,No,Yes
+343,Brown,4.9,Other,English,Atheist,Male,Australia,Obese,Arabic,University,274130,Yes,No
+344,Yellow,5.6,Tanned,Indigenous,Muslim,Other,Africa,Obese,Mandarin,Other,292443,Yes,No
+345,Gray,6.2,Brown,Other,Sikh,Other,Australia,Skinny,Mandarin,College,348177,Yes,No
+346,Yellow,5.2,Tanned,Indigenous,Muslim,Other,Asia,Fat,Arabic,Other,41164,Yes,Yes
+347,Green,5.2,Tanned,Arab,Muslim,Other,America,Fit,Russian,Other,107351,Yes,No
+348,Other,6.2,Beige,Asian,Atheist,Male,Other,Obese,Russian,College,174260,No,Yes
+349,Brown,6.4,Beige,English,Agnostic,Male,America,Fat,French,Other,179250,Yes,No
+350,Gray,5.2,White,Arab,Agnostic,Male,Other,Skinny,English,High School Diploma,318237,Yes,Yes
+351,Brown,5.8,Brown,Hispanic,Other,Other,Asia,Skinny,Arabic,Other,362868,Yes,Yes
+352,Gray,5.1,Beige,Hispanic,Sikh,Female,Asia,Other,Arabic,Other,232849,No,No
+353,Other,5.2,Beige,Indigenous,Hindu,Female,Australia,Other,Arabic,College,357442,No,No
+354,Other,6.2,Brown,Hispanic,Buddhist,Other,Asia,Skinny,Mandarin,College,208607,No,Yes
+355,Green,5.0,Tanned,Other,Muslim,Other,America,Other,Mandarin,High School Diploma,43449,Yes,Yes
+356,Other,5.3,White,African American,Hindu,Other,Europe,Other,French,Other,159388,Yes,No
+357,Hasel,5.2,White,Arab,Hindu,Male,America,Obese,French,Other,178180,Yes,Yes
+358,Green,4.5,Other,African American,Christian,Female,Other,Slim,French,College,290550,Yes,No
+359,Other,4.9,Brown,African,Atheist,Male,America,Other,French,College,264430,No,Yes
+360,Yellow,5.9,Tanned,Middle Eastern,Agnostic,Male,Africa,Obese,Mandarin,College,239324,Yes,No
+361,Gray,5.2,Beige,Other,Atheist,Female,Europe,Fit,Russian,University,184349,Yes,No
+362,Yellow,6.0,Beige,Caucasian,Agnostic,Male,Asia,Skinny,Russian,University,159840,Yes,Yes
+363,Hasel,6.0,White,Middle Eastern,Christian,Female,Other,Obese,Mandarin,Other,184478,Yes,No
+364,Brown,5.5,Black,Caucasian,Hindu,Male,America,Fit,Mandarin,High School Diploma,209929,Yes,No
+365,Yellow,5.0,Beige,English,Buddhist,Male,Africa,Obese,Russian,Other,197912,No,Yes
+366,Blue,5.6,Other,Caucasian,Sikh,Male,Europe,Fit,Arabic,Other,338572,No,No
+367,Hasel,6.4,Other,Arab,Sikh,Other,Other,Obese,French,College,176702,No,No
+368,Yellow,6.2,Beige,American,Buddhist,Male,Other,Skinny,Russian,College,65962,No,Yes
+369,Blue,5.9,Other,Middle Eastern,Buddhist,Male,Europe,Skinny,Mandarin,Other,41839,No,No
+370,Other,5.5,Black,Other,Atheist,Female,Australia,Slim,French,Other,398041,Yes,Yes
+371,Brown,4.5,Black,Asian,Agnostic,Male,Asia,Fit,Arabic,High School Diploma,271550,No,Yes
+372,Yellow,4.5,Black,Caucasian,Other,Female,Europe,Other,English,Other,182827,No,No
+373,Yellow,4.6,White,Asian,Jewish,Female,Asia,Other,Arabic,High School Diploma,77771,Yes,No
+374,Gray,5.2,Beige,African,Jewish,Female,Africa,Fat,English,University,225510,Yes,Yes
+375,Brown,5.4,Other,Caucasian,Other,Other,America,Other,English,College,150808,No,No
+376,Blue,5.4,Brown,Hispanic,Hindu,Other,America,Slim,Russian,Other,383615,No,No
+377,Other,5.3,White,Indigenous,Agnostic,Male,Australia,Fat,Arabic,University,81077,No,No
+378,Hasel,5.7,White,Other,Christian,Male,Asia,Fat,Mandarin,Other,275204,Yes,No
+379,Yellow,5.6,Beige,Indigenous,Jewish,Other,Australia,Skinny,French,Other,196215,Yes,No
+380,Blue,4.9,Brown,Indigenous,Other,Other,Asia,Other,English,High School Diploma,59481,No,Yes
+381,Brown,5.7,White,Middle Eastern,Sikh,Male,Africa,Other,Mandarin,University,148991,Yes,Yes
+382,Gray,5.4,Beige,Middle Eastern,Sikh,Male,America,Fit,English,High School Diploma,398359,No,Yes
+383,Brown,4.8,Other,Indigenous,Atheist,Female,Asia,Fat,Mandarin,Other,176758,Yes,Yes
+384,Green,5.5,Tanned,English,Sikh,Female,Africa,Other,French,University,67383,No,No
+385,Hasel,4.7,Black,English,Muslim,Female,America,Other,English,Other,397335,No,No
+386,Gray,5.7,Black,English,Christian,Male,America,Other,Mandarin,Other,127872,Yes,No
+387,Gray,5.5,Tanned,Asian,Buddhist,Male,Europe,Fit,French,Other,70475,No,No
+388,Hasel,6.4,Tanned,African,Christian,Female,Other,Other,Arabic,College,218349,No,No
+389,Gray,5.7,Black,Caucasian,Hindu,Other,Other,Slim,Mandarin,University,324324,Yes,No
+390,Green,6.2,Tanned,English,Other,Male,Australia,Skinny,Russian,High School Diploma,341587,Yes,Yes
+391,Blue,5.4,Beige,Other,Buddhist,Other,Other,Obese,Mandarin,Other,201286,No,No
+392,Hasel,4.7,Beige,Other,Muslim,Male,Asia,Fit,Russian,High School Diploma,145077,Yes,No
+393,Hasel,6.0,Beige,Hispanic,Sikh,Other,Africa,Fat,French,Other,281927,No,Yes
+394,Brown,4.7,Beige,Other,Sikh,Male,America,Obese,Mandarin,College,332112,No,Yes
+395,Hasel,6.4,Brown,Other,Atheist,Female,Africa,Fat,French,High School Diploma,153146,No,Yes
+396,Green,5.4,Brown,American,Atheist,Other,Australia,Fat,Arabic,High School Diploma,47434,No,Yes
+397,Yellow,4.9,Brown,African,Atheist,Other,America,Fat,English,High School Diploma,58915,Yes,No
+398,Blue,4.8,Tanned,Asian,Christian,Male,America,Obese,French,College,341681,Yes,Yes
+399,Green,5.3,Beige,African,Muslim,Male,America,Fit,Russian,Other,361444,Yes,No
+400,Other,5.6,Other,English,Atheist,Male,Europe,Obese,Russian,University,175620,No,Yes
+401,Brown,5.7,Other,Arab,Atheist,Female,America,Skinny,Mandarin,High School Diploma,75639,No,Yes
+402,Hasel,6.2,Tanned,Asian,Hindu,Female,Europe,Skinny,Mandarin,College,374527,Yes,Yes
+403,Yellow,6.4,Beige,Indigenous,Jewish,Other,Australia,Obese,Russian,College,368342,No,Yes
+404,Blue,5.8,Tanned,Middle Eastern,Christian,Male,Australia,Other,Arabic,University,177569,Yes,No
+405,Gray,5.0,Other,Other,Muslim,Female,Asia,Slim,Arabic,Other,296343,No,No
+406,Green,5.1,Other,English,Christian,Other,Europe,Fat,English,Other,66540,Yes,Yes
+407,Brown,6.3,Other,Other,Jewish,Other,Australia,Skinny,Russian,High School Diploma,301903,Yes,Yes
+408,Other,5.3,White,Middle Eastern,Christian,Female,Asia,Other,Arabic,University,293277,Yes,Yes
+409,Other,6.4,Other,Hispanic,Atheist,Other,Other,Other,Mandarin,College,321819,No,No
+410,Other,6.1,Black,Middle Eastern,Jewish,Other,Africa,Obese,Arabic,Other,230021,No,Yes
+411,Brown,5.1,Tanned,American,Atheist,Male,Asia,Slim,English,High School Diploma,253409,Yes,Yes
+412,Blue,6.3,Other,African,Agnostic,Male,America,Other,English,Other,135958,Yes,Yes
+413,Hasel,4.8,Brown,Caucasian,Other,Female,America,Obese,English,High School Diploma,347888,Yes,Yes
+414,Brown,5.7,Other,Caucasian,Christian,Female,Africa,Fit,English,College,257698,Yes,No
+415,Blue,6.3,Tanned,American,Jewish,Female,Africa,Fit,Arabic,Other,298492,No,No
+416,Green,5.8,White,Asian,Other,Female,Australia,Slim,Russian,University,322061,Yes,Yes
+417,Yellow,4.9,Beige,Middle Eastern,Christian,Male,Asia,Slim,Arabic,University,139010,No,Yes
+418,Hasel,5.5,Tanned,Arab,Other,Other,Europe,Fat,Russian,Other,353507,Yes,Yes
+419,Other,6.2,White,Other,Hindu,Female,Africa,Other,English,College,297067,Yes,No
+420,Green,5.4,White,Arab,Hindu,Female,Asia,Obese,Russian,College,89505,No,No
+421,Blue,6.1,White,American,Jewish,Female,Africa,Slim,Russian,High School Diploma,261171,Yes,No
+422,Blue,6.5,Black,American,Buddhist,Female,America,Fit,Arabic,University,325266,No,No
+423,Blue,6.2,Brown,English,Buddhist,Female,Europe,Fat,French,High School Diploma,112494,Yes,Yes
+424,Yellow,4.8,Brown,Hispanic,Other,Male,Africa,Skinny,Russian,College,322376,Yes,No
+425,Blue,4.6,White,Hispanic,Jewish,Male,Africa,Obese,French,College,385089,No,Yes
+426,Yellow,5.3,Other,African,Sikh,Female,Africa,Obese,Mandarin,High School Diploma,201237,No,Yes
+427,Brown,5.4,Beige,African American,Christian,Female,Europe,Slim,Russian,University,218126,Yes,No
+428,Hasel,4.9,Other,American,Agnostic,Male,Africa,Other,Arabic,University,106420,Yes,No
+429,Other,5.2,White,English,Jewish,Female,Australia,Fat,Arabic,College,258477,No,Yes
+430,Green,5.5,White,Arab,Other,Female,Australia,Fat,Russian,Other,43432,Yes,No
+431,Green,4.9,Tanned,Asian,Buddhist,Other,Asia,Fit,French,University,397620,No,Yes
+432,Green,5.4,White,English,Buddhist,Female,Africa,Obese,Arabic,Other,372274,No,Yes
+433,Hasel,5.5,White,American,Sikh,Other,America,Fat,Mandarin,College,377311,No,No
+434,Brown,6.4,White,American,Other,Male,Asia,Obese,Arabic,Other,360035,No,Yes
+435,Blue,5.4,Beige,Hispanic,Buddhist,Other,Other,Skinny,Arabic,Other,308693,No,Yes
+436,Green,5.5,Other,American,Christian,Male,Africa,Other,Russian,Other,115270,Yes,Yes
+437,Blue,4.7,Beige,American,Agnostic,Female,America,Fat,English,University,307283,No,Yes
+438,Green,4.7,Other,American,Agnostic,Other,Africa,Fat,English,High School Diploma,137074,No,Yes
+439,Yellow,6.3,Other,Other,Jewish,Female,Europe,Obese,Mandarin,Other,162218,Yes,No
+440,Hasel,5.2,Black,Hispanic,Other,Female,Europe,Fit,Russian,High School Diploma,150329,Yes,Yes
+441,Green,5.7,Black,Indigenous,Muslim,Male,Europe,Other,Russian,College,398333,Yes,Yes
+442,Yellow,4.6,Brown,Hispanic,Christian,Female,Australia,Fit,Russian,University,267069,Yes,No
+443,Blue,5.7,Black,Hispanic,Sikh,Other,Africa,Slim,Mandarin,College,194156,Yes,Yes
+444,Gray,5.1,Tanned,Asian,Other,Other,Other,Fit,English,Other,372370,No,No
+445,Brown,6.3,Beige,Middle Eastern,Atheist,Female,Australia,Fat,English,College,109321,Yes,Yes
+446,Green,4.5,Tanned,African American,Other,Other,Australia,Slim,English,Other,172267,No,Yes
+447,Green,5.3,Other,African,Atheist,Other,Asia,Slim,Mandarin,High School Diploma,282924,Yes,Yes
+448,Green,4.5,Brown,Arab,Hindu,Female,Africa,Fit,English,University,54674,No,Yes
+449,Green,5.2,Beige,Other,Agnostic,Male,America,Fat,Russian,University,62044,No,No
+450,Blue,5.7,Brown,Hispanic,Sikh,Other,Australia,Skinny,English,University,195413,Yes,Yes
+451,Brown,6.0,White,Indigenous,Buddhist,Female,America,Skinny,English,High School Diploma,175587,No,No
+452,Gray,4.9,Black,African American,Christian,Other,Australia,Obese,French,College,44857,Yes,Yes
+453,Other,6.0,Black,Middle Eastern,Hindu,Male,Asia,Other,French,College,86220,No,No
+454,Yellow,6.3,Black,American,Sikh,Female,Australia,Skinny,French,University,136485,Yes,No
+455,Hasel,5.3,Beige,African American,Muslim,Other,Other,Skinny,French,College,51763,Yes,Yes
+456,Yellow,6.5,Brown,English,Atheist,Other,Africa,Other,Russian,High School Diploma,233394,No,Yes
+457,Hasel,5.8,White,Arab,Hindu,Male,Australia,Other,Mandarin,University,202056,Yes,Yes
+458,Gray,5.9,Brown,Middle Eastern,Hindu,Other,Africa,Fat,Mandarin,Other,51110,No,Yes
+459,Green,5.0,Beige,American,Other,Male,Europe,Other,Arabic,College,41758,No,Yes
+460,Brown,5.4,Other,Middle Eastern,Buddhist,Other,Australia,Skinny,French,College,230486,No,No
+461,Yellow,5.4,Beige,Asian,Christian,Male,Other,Fat,Mandarin,College,358166,No,No
+462,Green,5.9,Beige,Middle Eastern,Agnostic,Female,America,Obese,Russian,University,198566,Yes,Yes
+463,Green,5.9,White,Asian,Sikh,Female,Other,Fit,Mandarin,High School Diploma,232235,Yes,Yes
+464,Green,4.6,White,African American,Christian,Other,Asia,Slim,Arabic,Other,145424,No,Yes
+465,Other,5.2,Beige,Indigenous,Christian,Male,Europe,Other,Arabic,Other,130746,Yes,Yes
+466,Hasel,5.6,Other,Middle Eastern,Christian,Other,Europe,Skinny,English,High School Diploma,157128,No,No
+467,Gray,5.6,White,Other,Atheist,Female,America,Slim,Mandarin,High School Diploma,75578,Yes,No
+468,Gray,4.5,Brown,Arab,Buddhist,Female,Asia,Obese,French,High School Diploma,118148,Yes,Yes
+469,Yellow,6.1,Black,Indigenous,Christian,Male,Australia,Fit,French,College,389259,No,No
+470,Other,4.8,Black,Indigenous,Christian,Male,Asia,Skinny,English,University,220212,No,No
+471,Green,5.8,Brown,English,Hindu,Other,Asia,Obese,Mandarin,University,110787,Yes,No
+472,Yellow,6.4,White,Indigenous,Atheist,Male,Asia,Fat,English,Other,48480,No,No
+473,Blue,6.4,Beige,African American,Jewish,Male,America,Other,Mandarin,Other,158318,No,No
+474,Green,5.8,White,English,Agnostic,Female,Africa,Fat,French,High School Diploma,135649,No,Yes
+475,Blue,5.0,Other,Other,Other,Female,America,Fat,French,University,280609,No,No
+476,Yellow,5.9,Brown,Other,Agnostic,Female,Australia,Skinny,Mandarin,University,258131,Yes,No
+477,Green,4.5,Other,African,Atheist,Female,Australia,Fit,Arabic,University,260897,Yes,No
+478,Gray,4.6,Brown,Middle Eastern,Jewish,Male,America,Obese,Arabic,Other,68842,Yes,Yes
+479,Other,6.2,Tanned,African American,Sikh,Other,Other,Slim,Mandarin,High School Diploma,382665,No,Yes
+480,Hasel,5.9,Tanned,American,Sikh,Female,America,Other,English,High School Diploma,293087,No,Yes
+481,Brown,6.2,Beige,Caucasian,Agnostic,Female,Australia,Fat,Arabic,College,286739,Yes,No
+482,Green,5.1,Black,Hispanic,Other,Other,Africa,Fit,French,High School Diploma,133930,No,Yes
+483,Brown,5.6,Black,African,Agnostic,Other,Other,Skinny,French,University,290911,Yes,Yes
+484,Brown,6.3,Brown,Other,Christian,Male,Africa,Fit,Russian,High School Diploma,265985,Yes,No
+485,Hasel,4.7,Beige,African American,Christian,Other,Australia,Other,French,College,282808,No,No
+486,Blue,6.1,White,Other,Jewish,Female,Europe,Fat,French,University,53066,Yes,No
+487,Gray,5.2,Black,American,Hindu,Female,America,Fat,Arabic,University,334224,Yes,No
+488,Blue,5.1,Beige,English,Other,Female,Asia,Other,French,University,260089,No,Yes
+489,Brown,5.7,Brown,African American,Atheist,Female,Europe,Obese,Arabic,High School Diploma,284831,Yes,Yes
+490,Blue,5.2,Other,American,Other,Female,Other,Fit,Arabic,University,96494,No,Yes
+491,Hasel,6.0,Tanned,African,Christian,Female,Other,Fit,Russian,University,169735,No,Yes
+492,Hasel,4.6,Other,Caucasian,Sikh,Female,Europe,Skinny,Russian,College,244641,Yes,Yes
+493,Blue,4.5,Brown,Hispanic,Buddhist,Other,Other,Obese,Russian,Other,365645,Yes,No
+494,Yellow,4.6,White,Indigenous,Agnostic,Male,Other,Obese,Mandarin,Other,312273,No,No
+495,Other,6.1,Brown,Asian,Buddhist,Male,America,Skinny,English,High School Diploma,230226,Yes,Yes
+496,Green,6.0,Black,Other,Atheist,Male,America,Fit,Arabic,College,288073,Yes,No
+497,Green,5.6,Brown,Caucasian,Other,Other,America,Other,French,University,381536,Yes,Yes
+498,Other,6.2,Beige,English,Other,Other,Other,Fat,Russian,College,317587,Yes,Yes
+499,Yellow,4.7,Brown,Arab,Muslim,Other,Australia,Fat,Arabic,University,137852,No,Yes
+500,Brown,6.1,Other,Arab,Hindu,Male,Europe,Other,Russian,College,324533,No,Yes
+501,Blue,6.2,Tanned,English,Buddhist,Female,Australia,Obese,Russian,High School Diploma,123567,No,Yes
+502,Hasel,5.3,Black,Caucasian,Buddhist,Male,Europe,Skinny,Russian,College,273764,No,No
+503,Other,6.1,Black,Caucasian,Hindu,Male,Other,Obese,Mandarin,Other,173327,Yes,No
+504,Brown,5.0,White,American,Hindu,Female,Europe,Other,English,College,160046,No,Yes
+505,Blue,4.7,Beige,Middle Eastern,Sikh,Male,Asia,Fit,English,University,49811,No,Yes
+506,Gray,4.8,Black,English,Buddhist,Male,Asia,Obese,French,High School Diploma,368754,Yes,Yes
+507,Other,5.8,Black,American,Atheist,Other,Other,Fat,Mandarin,University,89835,Yes,No
+508,Other,4.7,Black,Caucasian,Other,Female,America,Obese,Arabic,College,222365,Yes,Yes
+509,Hasel,6.1,White,American,Atheist,Male,Africa,Fat,English,High School Diploma,193956,No,Yes
+510,Blue,5.4,Beige,Hispanic,Jewish,Other,America,Fit,French,Other,199436,Yes,No
+511,Gray,6.4,Brown,Arab,Buddhist,Other,Other,Fat,Mandarin,High School Diploma,365360,No,No
+512,Green,6.1,Brown,Caucasian,Hindu,Male,Europe,Other,Mandarin,College,276039,Yes,Yes
+513,Green,6.3,Brown,American,Other,Male,Australia,Fat,Arabic,University,92599,Yes,Yes
+514,Other,4.8,White,Indigenous,Atheist,Other,Europe,Obese,Arabic,University,162635,Yes,No
+515,Blue,4.9,Brown,Indigenous,Jewish,Male,America,Slim,Arabic,High School Diploma,273015,No,Yes
+516,Blue,5.4,Beige,Hispanic,Buddhist,Female,America,Skinny,English,High School Diploma,316321,No,No
+517,Blue,5.2,Brown,Caucasian,Jewish,Other,America,Skinny,Russian,College,389938,Yes,No
+518,Other,5.5,White,African,Muslim,Other,Asia,Fat,French,College,381801,No,Yes
+519,Blue,4.6,Beige,Other,Buddhist,Male,Europe,Obese,French,Other,318222,Yes,Yes
+520,Hasel,5.6,Brown,Other,Buddhist,Female,Asia,Skinny,Arabic,College,280748,No,Yes
+521,Brown,4.5,Black,Hispanic,Atheist,Male,Other,Slim,English,Other,223243,Yes,Yes
+522,Other,4.8,Beige,Other,Jewish,Other,America,Fat,French,College,326135,Yes,No
+523,Other,6.3,White,Hispanic,Muslim,Female,Australia,Other,Arabic,Other,381278,No,Yes
+524,Blue,5.1,Other,Hispanic,Muslim,Other,Other,Obese,Russian,High School Diploma,259020,Yes,No
+525,Brown,5.6,White,Caucasian,Atheist,Female,Europe,Obese,English,College,60653,Yes,Yes
+526,Green,4.9,Tanned,Middle Eastern,Jewish,Male,Other,Fit,English,High School Diploma,319539,No,No
+527,Other,4.6,Black,American,Atheist,Female,Australia,Other,Russian,College,42987,No,Yes
+528,Other,5.4,Tanned,Arab,Atheist,Female,Australia,Slim,French,Other,122355,Yes,No
+529,Green,5.1,Black,African,Atheist,Male,Other,Skinny,French,University,220114,Yes,No
+530,Other,5.1,Other,English,Christian,Other,Europe,Obese,Mandarin,Other,268544,No,No
+531,Other,5.4,Other,Indigenous,Jewish,Female,Australia,Skinny,Arabic,University,55474,No,Yes
+532,Other,5.0,Brown,Other,Agnostic,Female,Australia,Slim,French,University,93201,No,Yes
+533,Green,5.3,Other,Arab,Hindu,Male,America,Slim,French,University,328833,No,Yes
+534,Green,5.6,Beige,African,Hindu,Other,Other,Other,French,High School Diploma,279038,No,Yes
+535,Gray,6.4,Black,American,Jewish,Male,Europe,Other,Russian,University,201414,Yes,Yes
+536,Blue,6.4,Other,Middle Eastern,Muslim,Female,Africa,Obese,Arabic,University,140419,Yes,No
+537,Gray,4.6,Black,Hispanic,Atheist,Female,Asia,Slim,Mandarin,University,306743,Yes,No
+538,Brown,5.0,Black,American,Sikh,Other,Europe,Skinny,English,Other,198674,No,Yes
+539,Green,5.3,Tanned,Indigenous,Sikh,Male,Other,Fat,Arabic,College,344214,No,Yes
+540,Hasel,6.1,Other,Hispanic,Muslim,Male,Other,Fit,Russian,Other,166661,Yes,Yes
+541,Green,6.5,Beige,American,Jewish,Male,Europe,Fat,French,Other,297788,Yes,No
+542,Hasel,5.0,Tanned,Asian,Buddhist,Male,America,Skinny,Mandarin,College,270673,Yes,Yes
+543,Gray,6.4,Other,African American,Christian,Female,Asia,Fat,Mandarin,High School Diploma,230207,No,Yes
+544,Yellow,5.5,White,African American,Hindu,Male,Africa,Slim,Arabic,University,295070,No,No
+545,Other,6.1,Black,English,Christian,Male,Australia,Fit,English,College,128324,No,Yes
+546,Other,4.7,White,African American,Hindu,Male,Other,Obese,French,College,356562,Yes,No
+547,Hasel,5.1,White,American,Atheist,Female,Europe,Fat,Russian,Other,181511,No,Yes
+548,Hasel,5.4,White,Middle Eastern,Muslim,Female,Africa,Skinny,Mandarin,Other,266219,Yes,No
+549,Gray,5.2,Tanned,American,Christian,Female,America,Fit,English,Other,267423,Yes,Yes
+550,Blue,5.0,Tanned,Asian,Sikh,Male,America,Fit,English,Other,189382,Yes,No
+551,Green,4.8,Brown,Caucasian,Christian,Other,Australia,Skinny,Mandarin,College,140413,Yes,No
+552,Blue,6.1,Brown,African American,Jewish,Other,America,Other,Russian,High School Diploma,290739,No,No
+553,Other,5.0,Beige,Indigenous,Sikh,Other,Europe,Fat,French,High School Diploma,382605,No,No
+554,Yellow,4.8,Tanned,English,Sikh,Female,Australia,Fit,English,High School Diploma,151778,No,No
+555,Green,6.1,White,Arab,Hindu,Other,Australia,Fat,Arabic,University,85290,No,No
+556,Blue,4.6,Black,Caucasian,Hindu,Female,Africa,Obese,French,High School Diploma,104847,No,Yes
+557,Hasel,6.4,Other,African,Atheist,Male,Asia,Fit,French,Other,218858,No,No
+558,Blue,5.6,Tanned,Caucasian,Jewish,Other,Asia,Other,French,University,220361,Yes,Yes
+559,Gray,5.5,Beige,Hispanic,Agnostic,Female,Asia,Other,Arabic,University,335810,No,No
+560,Blue,4.8,Tanned,Middle Eastern,Agnostic,Other,Asia,Skinny,Arabic,College,58444,No,No
+561,Yellow,5.3,Tanned,Arab,Buddhist,Other,America,Skinny,French,College,382396,No,No
+562,Green,5.8,Tanned,Middle Eastern,Buddhist,Other,Europe,Fat,Russian,College,347957,No,No
+563,Blue,4.9,Black,English,Jewish,Male,Asia,Obese,Russian,College,173995,Yes,Yes
+564,Brown,5.7,Tanned,Asian,Hindu,Female,Europe,Fat,Russian,University,258256,Yes,No
+565,Brown,4.6,White,Indigenous,Sikh,Male,Africa,Fat,Mandarin,High School Diploma,151733,Yes,No
+566,Yellow,5.0,Black,Caucasian,Buddhist,Female,Africa,Obese,English,Other,398531,No,No
+567,Green,6.0,Tanned,Caucasian,Agnostic,Other,Asia,Obese,Arabic,College,391503,No,Yes
+568,Hasel,5.6,Other,Caucasian,Hindu,Female,America,Fit,English,Other,386354,No,No
+569,Brown,4.9,Beige,English,Jewish,Female,Asia,Skinny,French,University,100199,Yes,Yes
+570,Yellow,6.4,Other,Indigenous,Christian,Female,Africa,Other,Arabic,College,191582,No,Yes
+571,Green,4.7,Beige,Indigenous,Christian,Male,Australia,Slim,Arabic,University,326617,No,Yes
+572,Yellow,5.8,Brown,Middle Eastern,Other,Other,America,Other,Arabic,College,194878,No,No
+573,Gray,6.1,Black,African American,Atheist,Female,America,Fit,Russian,Other,132621,No,No
+574,Green,4.6,White,African,Christian,Other,Australia,Slim,Arabic,University,89209,No,Yes
+575,Yellow,5.1,Brown,Asian,Buddhist,Other,Other,Obese,Mandarin,Other,189594,Yes,No
+576,Green,6.4,Brown,Indigenous,Sikh,Male,America,Skinny,French,College,42607,No,No
+577,Yellow,6.4,White,Arab,Agnostic,Male,Africa,Skinny,French,College,162384,No,No
+578,Green,6.1,Brown,Middle Eastern,Christian,Other,Other,Obese,Arabic,High School Diploma,395685,No,No
+579,Yellow,5.5,Tanned,Arab,Agnostic,Male,Asia,Other,French,College,324974,No,Yes
+580,Other,6.1,White,English,Muslim,Other,Africa,Obese,Russian,University,202642,Yes,Yes
+581,Blue,5.1,Black,African,Christian,Male,Africa,Other,English,Other,147324,No,Yes
+582,Other,4.8,Tanned,Arab,Jewish,Other,America,Slim,Russian,High School Diploma,360279,Yes,Yes
+583,Blue,4.9,Brown,Caucasian,Hindu,Male,Africa,Other,English,Other,142688,No,Yes
+584,Hasel,5.7,Black,Caucasian,Buddhist,Male,Asia,Fat,Mandarin,Other,82179,No,No
+585,Gray,4.7,Tanned,Hispanic,Hindu,Male,Other,Fat,English,University,62376,No,No
+586,Hasel,6.4,Beige,English,Christian,Other,Other,Skinny,French,College,383555,No,Yes
+587,Yellow,4.6,White,Hispanic,Agnostic,Other,Australia,Slim,English,High School Diploma,48662,No,No
+588,Yellow,4.7,Beige,Hispanic,Sikh,Male,Europe,Slim,Arabic,University,370663,No,Yes
+589,Blue,5.6,Black,English,Sikh,Male,Europe,Fat,Russian,High School Diploma,397323,No,Yes
+590,Hasel,5.5,Black,English,Jewish,Female,America,Skinny,English,High School Diploma,175978,Yes,Yes
+591,Other,6.0,Black,Hispanic,Jewish,Male,Europe,Slim,French,University,228695,Yes,Yes
+592,Gray,5.4,Beige,Middle Eastern,Buddhist,Other,Asia,Skinny,Russian,Other,150858,Yes,No
+593,Blue,5.6,Other,Other,Jewish,Other,America,Fat,English,College,117576,Yes,No
+594,Green,4.6,Other,American,Sikh,Other,America,Fit,Mandarin,Other,117035,Yes,Yes
+595,Hasel,6.3,Brown,African American,Other,Other,Australia,Fat,Arabic,High School Diploma,300233,Yes,Yes
+596,Blue,6.1,Black,American,Buddhist,Male,Other,Obese,Mandarin,College,142945,No,Yes
+597,Other,4.9,White,African American,Muslim,Female,Asia,Skinny,Arabic,Other,328909,No,No
+598,Gray,6.0,Beige,African,Agnostic,Female,America,Skinny,English,High School Diploma,90360,No,Yes
+599,Brown,4.8,Brown,Caucasian,Jewish,Male,Europe,Fit,English,Other,188893,Yes,Yes
+600,Green,5.6,Other,Indigenous,Buddhist,Male,America,Skinny,Russian,High School Diploma,267287,Yes,Yes
+601,Yellow,5.3,Beige,American,Buddhist,Other,Other,Fat,Russian,University,65463,No,Yes
+602,Hasel,4.9,Beige,Indigenous,Jewish,Other,America,Obese,Mandarin,Other,188550,Yes,No
+603,Blue,6.5,White,English,Sikh,Male,Asia,Slim,English,Other,44211,Yes,Yes
+604,Green,6.4,Brown,Arab,Christian,Other,Asia,Fit,Russian,High School Diploma,130592,No,Yes
+605,Yellow,4.5,Black,Hispanic,Other,Female,Other,Fat,French,Other,272440,No,Yes
+606,Yellow,4.5,White,Hispanic,Agnostic,Male,Asia,Fat,Russian,University,292041,Yes,Yes
+607,Gray,5.3,Black,African,Christian,Male,America,Other,Mandarin,Other,141663,Yes,No
+608,Brown,4.8,Brown,Caucasian,Christian,Female,Other,Fit,Arabic,College,72503,No,Yes
+609,Blue,4.8,Other,Caucasian,Jewish,Male,Australia,Slim,Russian,Other,220226,Yes,Yes
+610,Yellow,5.6,Other,Middle Eastern,Atheist,Other,Other,Fit,French,Other,310588,Yes,Yes
+611,Blue,5.3,Brown,Caucasian,Christian,Other,Asia,Other,English,Other,138202,Yes,Yes
+612,Green,5.0,Other,African American,Christian,Male,Africa,Skinny,English,University,260957,Yes,No
+613,Brown,6.1,Tanned,English,Sikh,Other,Asia,Obese,Arabic,High School Diploma,327148,No,No
+614,Other,6.3,Beige,Arab,Other,Male,Asia,Slim,Arabic,College,306554,No,Yes
+615,Hasel,6.2,Tanned,Arab,Jewish,Male,Asia,Other,English,University,291939,No,Yes
+616,Brown,5.3,Brown,Arab,Jewish,Other,Australia,Obese,French,University,312908,No,No
+617,Hasel,6.0,Beige,African American,Agnostic,Male,America,Fat,Russian,High School Diploma,149139,Yes,No
+618,Yellow,4.9,Brown,Other,Agnostic,Male,America,Obese,English,University,90118,Yes,Yes
+619,Hasel,6.3,Beige,African American,Atheist,Female,America,Fit,Arabic,Other,71202,No,No
+620,Brown,5.4,White,African American,Muslim,Female,Africa,Fat,Mandarin,Other,59263,Yes,No
+621,Gray,6.3,Other,English,Christian,Male,America,Obese,Arabic,University,205460,Yes,Yes
+622,Gray,6.2,Beige,Indigenous,Muslim,Male,Australia,Skinny,English,University,325375,No,No
+623,Other,5.9,White,African American,Hindu,Male,America,Other,French,Other,294412,No,No
+624,Hasel,6.4,White,Middle Eastern,Muslim,Other,America,Fat,French,Other,315070,No,No
+625,Other,4.7,Beige,Hispanic,Jewish,Female,Other,Other,French,College,318909,No,No
+626,Blue,6.0,Tanned,African American,Atheist,Male,Other,Other,English,College,324477,No,No
+627,Brown,5.7,Other,Arab,Hindu,Female,Asia,Fit,Mandarin,College,63202,No,Yes
+628,Gray,6.1,Black,Indigenous,Muslim,Female,Africa,Fit,Mandarin,University,88928,Yes,Yes
+629,Green,6.3,Brown,African,Buddhist,Male,Europe,Other,Mandarin,College,196435,Yes,Yes
+630,Hasel,5.1,Other,English,Agnostic,Female,Australia,Fit,French,College,234942,Yes,No
+631,Other,5.1,White,African,Jewish,Male,Australia,Other,Arabic,Other,341385,Yes,Yes
+632,Other,6.0,Black,African American,Hindu,Female,Europe,Fit,Mandarin,High School Diploma,109862,No,No
+633,Gray,5.2,Tanned,Middle Eastern,Muslim,Other,Asia,Fat,French,University,161734,Yes,No
+634,Brown,5.8,Tanned,Asian,Christian,Female,Africa,Other,Russian,Other,317571,No,Yes
+635,Hasel,4.6,Black,Hispanic,Other,Male,Australia,Fat,French,College,54398,No,Yes
+636,Yellow,5.9,Beige,Other,Sikh,Other,America,Obese,Russian,High School Diploma,205100,Yes,No
+637,Yellow,4.6,Other,Asian,Muslim,Female,Other,Slim,English,High School Diploma,172968,No,No
+638,Blue,6.0,Black,American,Jewish,Female,Australia,Skinny,Russian,University,391597,No,No
+639,Green,4.7,Brown,English,Jewish,Male,Australia,Fat,French,University,109186,Yes,No
+640,Gray,4.6,Black,Other,Atheist,Male,Africa,Fat,Arabic,College,247760,No,No
+641,Brown,5.4,Tanned,Indigenous,Other,Other,America,Obese,Russian,University,231627,No,No
+642,Yellow,4.5,Brown,African,Agnostic,Other,America,Other,English,College,280838,Yes,No
+643,Hasel,5.6,White,Hispanic,Agnostic,Female,America,Obese,Arabic,College,174464,Yes,No
+644,Blue,5.9,White,African,Christian,Male,America,Fat,English,University,313395,No,No
+645,Yellow,5.2,Other,African American,Muslim,Male,Australia,Fat,English,University,331916,No,Yes
+646,Gray,6.3,Black,Indigenous,Atheist,Other,America,Other,Mandarin,College,128186,No,Yes
+647,Hasel,6.2,Other,African,Christian,Male,America,Slim,English,Other,248848,Yes,Yes
+648,Green,4.9,White,American,Sikh,Other,Europe,Skinny,Arabic,University,115939,No,No
+649,Brown,6.4,Brown,Other,Christian,Female,Other,Obese,French,High School Diploma,41818,Yes,Yes
+650,Green,6.2,White,African,Hindu,Male,Other,Skinny,French,College,183981,No,Yes
+651,Blue,5.6,Beige,Indigenous,Jewish,Female,Africa,Skinny,Arabic,University,246062,Yes,No
+652,Hasel,5.8,Tanned,Arab,Buddhist,Female,Other,Other,Mandarin,High School Diploma,60768,Yes,Yes
+653,Other,4.8,Tanned,Arab,Jewish,Male,Africa,Fit,Arabic,University,289214,Yes,No
+654,Hasel,5.3,Other,English,Christian,Other,Asia,Fat,Russian,Other,242682,No,No
+655,Green,5.1,Beige,African American,Other,Male,Asia,Fit,French,High School Diploma,316571,No,Yes
+656,Green,5.1,Tanned,Middle Eastern,Sikh,Other,Europe,Fat,English,Other,99546,No,No
+657,Hasel,6.3,Beige,African,Buddhist,Male,Asia,Skinny,Arabic,High School Diploma,124943,Yes,Yes
+658,Blue,5.9,Black,Arab,Atheist,Female,Africa,Fit,Arabic,High School Diploma,50239,No,Yes
+659,Blue,5.1,White,English,Hindu,Male,Europe,Obese,English,College,168594,Yes,No
+660,Yellow,5.7,Other,Hispanic,Other,Other,Australia,Skinny,English,College,115123,Yes,No
+661,Other,5.1,Beige,Middle Eastern,Hindu,Female,Europe,Obese,French,College,144539,Yes,Yes
+662,Brown,6.3,Other,African,Hindu,Female,Asia,Fit,English,University,354939,No,Yes
+663,Hasel,4.6,Other,Other,Jewish,Other,Australia,Fit,English,College,202657,No,Yes
+664,Gray,5.6,Tanned,Caucasian,Jewish,Other,Africa,Fat,Russian,College,81602,Yes,Yes
+665,Brown,6.0,Black,Asian,Muslim,Male,Asia,Skinny,Arabic,University,174989,Yes,No
+666,Other,5.5,Beige,Other,Christian,Other,Africa,Skinny,Arabic,Other,63706,Yes,Yes
+667,Yellow,5.7,Tanned,Hispanic,Agnostic,Female,Europe,Obese,French,High School Diploma,332063,Yes,No
+668,Yellow,5.2,White,Middle Eastern,Buddhist,Male,Other,Skinny,Mandarin,University,210611,No,Yes
+669,Hasel,4.9,Beige,English,Sikh,Female,Australia,Fat,English,College,269371,Yes,No
+670,Blue,5.1,Other,African American,Jewish,Male,Africa,Other,English,College,347570,Yes,No
+671,Green,4.9,Brown,African American,Agnostic,Male,Africa,Fat,Mandarin,College,255721,No,No
+672,Hasel,5.3,Black,Other,Hindu,Male,America,Fat,French,College,159555,Yes,Yes
+673,Brown,4.7,Beige,African,Sikh,Other,Africa,Other,Russian,High School Diploma,345841,Yes,No
+674,Gray,5.0,Beige,Middle Eastern,Christian,Female,Australia,Slim,Arabic,University,252260,Yes,Yes
+675,Brown,5.0,Black,Caucasian,Agnostic,Female,Asia,Slim,English,University,142903,No,No
+676,Yellow,5.1,Other,Middle Eastern,Christian,Female,Europe,Other,French,Other,389652,Yes,Yes
+677,Other,4.8,White,Caucasian,Christian,Other,Other,Skinny,Arabic,College,378340,Yes,No
+678,Gray,5.6,Other,Caucasian,Other,Male,America,Other,French,University,104783,No,No
+679,Yellow,5.2,Beige,Middle Eastern,Hindu,Male,Europe,Fat,Mandarin,High School Diploma,97072,No,No
+680,Other,5.9,Tanned,African,Jewish,Other,Asia,Fit,Russian,Other,292086,Yes,No
+681,Other,6.0,Black,African,Buddhist,Other,Africa,Slim,English,University,170518,Yes,No
+682,Blue,5.6,Brown,Other,Christian,Male,America,Skinny,English,High School Diploma,297811,No,No
+683,Hasel,5.8,Brown,African,Agnostic,Other,America,Other,French,High School Diploma,371295,No,Yes
+684,Blue,5.6,Black,Hispanic,Buddhist,Female,Asia,Skinny,Mandarin,Other,396941,Yes,No
+685,Blue,5.2,Black,Middle Eastern,Christian,Other,Other,Skinny,Russian,College,254486,No,Yes
+686,Green,5.3,Other,English,Sikh,Female,Asia,Other,English,High School Diploma,80866,No,No
+687,Green,4.6,Tanned,Arab,Hindu,Male,America,Skinny,Mandarin,Other,269464,Yes,No
+688,Gray,5.6,Other,Other,Muslim,Male,Asia,Slim,French,Other,338413,No,No
+689,Blue,5.9,Tanned,Middle Eastern,Christian,Female,Australia,Fit,Mandarin,College,196066,Yes,No
+690,Gray,5.6,Beige,African American,Agnostic,Other,America,Fit,Mandarin,University,315299,No,No
+691,Hasel,5.3,Tanned,Hispanic,Other,Female,Africa,Fat,Arabic,Other,163096,Yes,Yes
+692,Other,4.9,Tanned,American,Muslim,Male,Asia,Slim,Arabic,College,178414,No,Yes
+693,Brown,5.5,Black,Middle Eastern,Muslim,Other,Australia,Fit,Russian,University,305199,Yes,No
+694,Gray,5.1,Black,English,Sikh,Male,Australia,Fit,French,University,368449,No,No
+695,Yellow,5.1,Other,African,Jewish,Male,Asia,Obese,Arabic,University,291383,Yes,No
+696,Blue,5.8,Brown,Other,Atheist,Male,Australia,Other,Mandarin,High School Diploma,92380,Yes,Yes
+697,Gray,5.2,Other,Asian,Buddhist,Other,America,Fit,Mandarin,Other,349230,No,Yes
+698,Blue,5.2,Brown,African American,Sikh,Male,Australia,Fit,Russian,Other,197293,No,Yes
+699,Blue,6.5,White,Hispanic,Other,Other,Europe,Other,Arabic,Other,138532,Yes,No
+700,Yellow,5.3,Beige,African,Sikh,Other,Europe,Obese,Arabic,High School Diploma,143026,Yes,No
+701,Brown,5.3,White,Caucasian,Atheist,Other,Europe,Fat,Mandarin,High School Diploma,381470,No,Yes
+702,Gray,5.9,Black,Other,Other,Other,America,Fat,Russian,Other,256692,Yes,No
+703,Brown,5.3,Tanned,Arab,Buddhist,Other,America,Fat,Mandarin,High School Diploma,389641,No,No
+704,Brown,4.9,Tanned,American,Muslim,Male,Asia,Fat,Mandarin,University,59826,No,No
+705,Yellow,5.7,Other,Middle Eastern,Christian,Other,Asia,Other,Russian,College,51679,Yes,Yes
+706,Green,6.2,Other,American,Sikh,Male,Asia,Skinny,Mandarin,University,265368,Yes,No
+707,Yellow,6.0,Black,Asian,Jewish,Other,Africa,Slim,English,Other,67895,Yes,No
+708,Green,6.3,Brown,Middle Eastern,Buddhist,Female,America,Slim,French,University,61890,Yes,No
+709,Gray,5.8,Other,American,Jewish,Other,Europe,Skinny,Arabic,High School Diploma,113334,Yes,Yes
+710,Brown,5.2,Black,African,Hindu,Other,Other,Skinny,Mandarin,University,365700,Yes,No
+711,Other,5.6,Beige,Other,Christian,Female,America,Other,English,University,349057,Yes,No
+712,Green,5.7,Brown,Hispanic,Sikh,Male,Other,Slim,Arabic,University,88865,Yes,No
+713,Brown,6.4,Black,Middle Eastern,Sikh,Female,Europe,Fat,English,College,179786,Yes,No
+714,Yellow,4.8,Black,Other,Muslim,Male,Africa,Obese,Arabic,University,84514,Yes,Yes
+715,Yellow,6.5,Tanned,Indigenous,Christian,Other,Other,Obese,Arabic,High School Diploma,112023,No,Yes
+716,Other,5.7,Tanned,Indigenous,Christian,Female,Europe,Fat,Mandarin,University,309966,No,No
+717,Other,6.5,Other,Asian,Hindu,Female,Other,Fit,Mandarin,College,190074,No,No
+718,Brown,6.2,Beige,African,Buddhist,Other,America,Slim,Russian,University,123593,No,No
+719,Other,6.4,Black,Other,Jewish,Male,Other,Other,Mandarin,College,40023,Yes,No
+720,Green,5.8,Other,Arab,Atheist,Other,Africa,Slim,Mandarin,Other,40859,No,Yes
+721,Hasel,5.3,White,English,Buddhist,Male,Europe,Slim,Russian,High School Diploma,354619,Yes,No
+722,Blue,5.7,Black,English,Atheist,Other,America,Fat,Mandarin,High School Diploma,207413,No,No
+723,Yellow,5.4,Brown,African American,Sikh,Other,Australia,Fit,Russian,Other,83853,Yes,No
+724,Gray,5.0,Brown,Asian,Agnostic,Female,Asia,Other,Arabic,University,199441,No,No
+725,Yellow,5.5,Tanned,Middle Eastern,Jewish,Other,America,Skinny,Russian,College,322728,No,Yes
+726,Green,6.4,Other,English,Christian,Other,Asia,Other,French,College,155494,Yes,No
+727,Other,5.2,Brown,Other,Buddhist,Male,Other,Obese,English,College,221319,Yes,Yes
+728,Gray,6.2,Tanned,English,Sikh,Other,Africa,Skinny,Mandarin,University,281707,Yes,No
+729,Green,6.5,Brown,Hispanic,Agnostic,Female,Asia,Slim,English,Other,85464,Yes,No
+730,Brown,6.0,White,Caucasian,Other,Male,Other,Fit,Mandarin,Other,257556,Yes,No
+731,Yellow,5.2,Brown,Arab,Buddhist,Female,Africa,Slim,English,College,212994,Yes,Yes
+732,Hasel,4.7,Beige,Indigenous,Buddhist,Male,Asia,Fit,Mandarin,Other,161072,Yes,No
+733,Yellow,6.5,White,Other,Agnostic,Female,Australia,Other,Mandarin,High School Diploma,194570,Yes,Yes
+734,Brown,4.5,White,Asian,Hindu,Female,Other,Other,French,University,184714,No,No
+735,Gray,5.2,Beige,Indigenous,Other,Female,Europe,Other,English,College,246400,Yes,No
+736,Green,6.4,Tanned,Hispanic,Muslim,Male,Other,Skinny,Arabic,High School Diploma,88414,Yes,No
+737,Yellow,6.3,Brown,Asian,Buddhist,Female,Asia,Skinny,French,University,283263,Yes,Yes
+738,Brown,5.8,Black,English,Christian,Female,America,Fit,English,High School Diploma,86422,Yes,Yes
+739,Green,5.5,Other,American,Agnostic,Male,Europe,Slim,Mandarin,University,88482,No,No
+740,Blue,4.9,Black,Other,Sikh,Male,Europe,Skinny,English,College,341410,No,Yes
+741,Hasel,4.7,Other,American,Buddhist,Male,Other,Skinny,French,College,73872,No,Yes
+742,Brown,5.7,White,African American,Christian,Male,Asia,Fat,Mandarin,College,176958,No,Yes
+743,Hasel,5.8,White,Caucasian,Hindu,Other,Asia,Other,English,High School Diploma,171296,No,Yes
+744,Other,5.3,Brown,English,Jewish,Female,Europe,Fit,Arabic,College,193480,No,Yes
+745,Hasel,4.8,Black,African,Atheist,Other,Australia,Fit,Russian,Other,81913,Yes,No
+746,Yellow,4.6,Beige,Indigenous,Sikh,Female,Africa,Other,Mandarin,High School Diploma,311753,No,Yes
+747,Brown,4.8,White,African American,Jewish,Male,Australia,Fat,Russian,College,295570,No,Yes
+748,Other,5.8,Black,African,Christian,Other,Other,Fit,Arabic,College,154313,Yes,Yes
+749,Brown,5.7,Beige,Asian,Atheist,Male,Other,Fat,French,High School Diploma,206022,No,No
+750,Yellow,5.4,Black,American,Other,Other,Asia,Obese,French,Other,252558,No,No
+751,Other,5.5,Black,English,Buddhist,Other,Asia,Fit,French,High School Diploma,68146,No,Yes
+752,Hasel,4.7,Black,Indigenous,Sikh,Female,Australia,Other,Russian,Other,84435,No,Yes
+753,Blue,4.7,Brown,Other,Sikh,Other,Africa,Obese,Russian,University,174403,No,Yes
+754,Blue,4.9,Black,Middle Eastern,Other,Female,Europe,Other,French,College,144055,No,Yes
+755,Blue,4.9,Tanned,Caucasian,Other,Male,Australia,Fit,English,Other,170086,No,Yes
+756,Other,6.0,Tanned,African,Jewish,Female,Australia,Obese,Arabic,University,62869,Yes,No
+757,Yellow,5.9,Beige,African,Jewish,Male,Europe,Slim,Arabic,College,138555,No,Yes
+758,Green,5.6,Tanned,Other,Atheist,Male,Asia,Skinny,Russian,University,190308,Yes,Yes
+759,Gray,5.6,Other,Asian,Other,Male,America,Obese,Russian,University,214364,Yes,No
+760,Hasel,6.3,Beige,Middle Eastern,Muslim,Other,Europe,Obese,French,High School Diploma,169409,Yes,Yes
+761,Hasel,6.2,Other,African,Other,Female,Africa,Fit,English,University,271456,Yes,Yes
+762,Brown,6.5,Beige,Other,Agnostic,Male,Australia,Obese,Russian,High School Diploma,285263,No,No
+763,Green,4.8,White,Middle Eastern,Muslim,Male,America,Slim,Arabic,High School Diploma,238337,Yes,No
+764,Gray,4.8,Other,Caucasian,Jewish,Male,Asia,Skinny,English,College,321880,Yes,No
+765,Blue,5.6,Brown,English,Jewish,Other,Europe,Fat,Mandarin,Other,154980,Yes,No
+766,Blue,5.5,Other,Caucasian,Jewish,Male,Other,Slim,Arabic,High School Diploma,138997,Yes,Yes
+767,Green,5.6,Tanned,Asian,Other,Other,Europe,Fat,English,Other,397247,Yes,Yes
+768,Gray,5.3,Black,African American,Muslim,Female,Other,Other,Arabic,University,44035,Yes,No
+769,Hasel,5.9,Other,African American,Buddhist,Male,Other,Slim,Arabic,College,375062,No,Yes
+770,Green,5.7,Tanned,African American,Jewish,Male,Australia,Other,French,Other,271844,Yes,Yes
+771,Hasel,5.3,White,Hispanic,Sikh,Other,Asia,Other,Mandarin,High School Diploma,291419,Yes,Yes
+772,Yellow,6.2,Beige,Arab,Other,Other,Other,Fat,Arabic,College,394961,Yes,Yes
+773,Gray,6.3,Beige,African American,Christian,Male,Asia,Fat,Russian,University,70254,Yes,Yes
+774,Hasel,5.7,Black,African American,Jewish,Male,Europe,Fat,Mandarin,College,222428,No,No
+775,Gray,5.8,Other,American,Hindu,Male,America,Obese,Arabic,Other,162558,No,Yes
+776,Other,5.7,Black,African,Buddhist,Male,Australia,Skinny,Russian,High School Diploma,383276,Yes,No
+777,Yellow,5.0,Tanned,Arab,Buddhist,Other,America,Obese,Arabic,Other,232549,No,No
+778,Blue,5.9,Brown,Caucasian,Agnostic,Male,Asia,Obese,English,University,275844,No,Yes
+779,Green,4.9,Beige,Other,Hindu,Male,Australia,Skinny,English,University,131563,No,Yes
+780,Other,6.2,White,African American,Jewish,Male,Europe,Other,English,College,139885,Yes,No
+781,Other,5.1,Black,African,Sikh,Male,Other,Slim,English,Other,266571,Yes,No
+782,Green,6.0,White,African,Jewish,Female,Asia,Slim,Mandarin,Other,238831,No,No
+783,Yellow,4.8,White,Middle Eastern,Christian,Female,Other,Fit,Arabic,College,149853,Yes,Yes
+784,Blue,5.3,Beige,Asian,Buddhist,Other,Africa,Skinny,Russian,University,206216,No,Yes
+785,Gray,4.6,Black,Other,Atheist,Other,Australia,Obese,Arabic,High School Diploma,142555,Yes,Yes
+786,Hasel,6.3,Other,English,Agnostic,Other,Asia,Fit,Arabic,Other,218862,No,No
+787,Yellow,4.9,Beige,Hispanic,Buddhist,Female,Other,Other,French,Other,143915,No,Yes
+788,Blue,5.5,Black,English,Jewish,Other,America,Slim,French,College,157120,Yes,No
+789,Hasel,5.2,Beige,Caucasian,Muslim,Other,Other,Obese,French,High School Diploma,75063,Yes,No
+790,Other,5.1,Other,African American,Buddhist,Female,Europe,Other,Mandarin,University,115204,Yes,Yes
+791,Gray,5.1,Beige,African American,Agnostic,Female,America,Slim,Arabic,Other,202432,No,Yes
+792,Yellow,6.1,White,Arab,Hindu,Other,Australia,Other,Arabic,Other,325466,No,No
+793,Hasel,5.2,Beige,Other,Christian,Female,America,Other,English,University,134186,No,Yes
+794,Blue,5.5,Brown,English,Muslim,Other,Other,Slim,English,High School Diploma,279582,No,Yes
+795,Blue,6.3,Brown,Other,Atheist,Other,Australia,Obese,French,Other,118995,No,No
+796,Yellow,4.7,Tanned,African American,Agnostic,Other,America,Other,Arabic,Other,143593,Yes,No
+797,Hasel,5.7,Other,Other,Other,Female,Asia,Fat,English,Other,372638,No,No
+798,Hasel,5.2,White,Caucasian,Atheist,Male,Europe,Other,Mandarin,Other,107173,No,No
+799,Yellow,5.3,Other,Other,Muslim,Other,America,Fat,Mandarin,Other,197709,Yes,No
+800,Gray,5.1,Black,Other,Other,Male,Australia,Obese,Russian,College,180873,Yes,Yes
+801,Gray,6.4,Tanned,African American,Other,Other,Asia,Fit,French,High School Diploma,372512,Yes,No
+802,Yellow,6.4,Brown,African American,Sikh,Other,America,Skinny,English,Other,124408,Yes,No
+803,Other,5.5,Beige,Other,Sikh,Male,Africa,Other,Arabic,University,393917,Yes,Yes
+804,Yellow,6.5,Black,Arab,Buddhist,Female,America,Fat,Mandarin,Other,46203,No,Yes
+805,Other,4.8,Tanned,Caucasian,Jewish,Other,Europe,Obese,Russian,Other,160124,Yes,No
+806,Other,5.7,Black,Asian,Atheist,Other,Africa,Fit,Arabic,High School Diploma,262847,Yes,Yes
+807,Green,6.1,Black,African,Christian,Female,Europe,Fat,Russian,High School Diploma,135809,No,Yes
+808,Gray,6.4,Tanned,Hispanic,Sikh,Female,Asia,Fat,Mandarin,University,62759,Yes,Yes
+809,Green,4.6,Beige,African American,Hindu,Male,Asia,Other,Arabic,High School Diploma,322879,Yes,Yes
+810,Brown,6.4,Brown,Arab,Buddhist,Male,Asia,Fat,Mandarin,College,224020,Yes,Yes
+811,Yellow,6.1,White,Asian,Other,Other,Asia,Fit,Arabic,Other,184852,No,No
+812,Yellow,4.9,White,Hispanic,Jewish,Female,Australia,Skinny,Arabic,College,46279,No,No
+813,Yellow,5.3,White,Arab,Buddhist,Male,America,Slim,Russian,College,233840,No,No
+814,Blue,6.5,White,African,Christian,Male,America,Fat,English,University,397121,Yes,No
+815,Hasel,5.5,Other,Caucasian,Jewish,Male,Europe,Fit,Mandarin,High School Diploma,70422,Yes,No
+816,Green,5.8,Beige,African American,Hindu,Other,Europe,Slim,French,College,71663,No,Yes
+817,Other,5.6,Black,Middle Eastern,Buddhist,Female,America,Skinny,French,University,243300,Yes,Yes
+818,Green,5.3,Tanned,African American,Christian,Male,America,Slim,English,University,266966,No,No
+819,Yellow,4.5,Other,English,Christian,Male,Australia,Slim,English,High School Diploma,129518,Yes,Yes
+820,Yellow,5.0,Black,Asian,Atheist,Female,Europe,Fit,French,University,84526,Yes,No
+821,Blue,5.3,Brown,Hispanic,Muslim,Male,Asia,Fat,Arabic,High School Diploma,287217,Yes,Yes
+822,Brown,5.7,Other,Caucasian,Jewish,Male,Asia,Fit,English,College,240322,No,Yes
+823,Gray,5.2,Tanned,Caucasian,Sikh,Male,Africa,Other,Arabic,College,395515,Yes,Yes
+824,Other,4.7,Brown,Caucasian,Atheist,Other,Europe,Other,Arabic,High School Diploma,391573,No,Yes
+825,Yellow,5.3,Brown,African American,Buddhist,Other,America,Other,Mandarin,High School Diploma,271468,Yes,No
+826,Brown,4.6,Beige,English,Other,Male,Europe,Obese,Russian,College,145743,No,No
+827,Yellow,4.9,Brown,Other,Agnostic,Female,Other,Skinny,Russian,College,162676,No,No
+828,Gray,4.7,Tanned,Indigenous,Other,Female,America,Fat,Arabic,High School Diploma,334402,Yes,No
+829,Blue,4.8,Beige,African American,Other,Male,America,Fat,Arabic,Other,362002,Yes,No
+830,Blue,6.1,Beige,Middle Eastern,Atheist,Male,Other,Fit,Mandarin,Other,129268,Yes,Yes
+831,Hasel,4.6,Other,African,Muslim,Male,Africa,Fat,Arabic,Other,270357,No,Yes
+832,Blue,4.8,Black,Asian,Agnostic,Female,Europe,Other,Arabic,Other,369911,No,No
+833,Yellow,6.0,Black,Indigenous,Sikh,Other,Other,Fat,Mandarin,High School Diploma,246873,Yes,No
+834,Yellow,5.6,Other,Caucasian,Muslim,Female,Asia,Fit,English,Other,69221,No,No
+835,Other,6.0,Beige,Caucasian,Atheist,Female,America,Slim,Mandarin,University,115509,No,Yes
+836,Yellow,5.5,Other,Middle Eastern,Hindu,Male,Australia,Obese,Mandarin,University,392788,Yes,No
+837,Gray,5.8,Tanned,Hispanic,Agnostic,Male,Asia,Slim,French,University,375242,No,No
+838,Other,5.6,Tanned,Caucasian,Muslim,Male,Europe,Skinny,Arabic,University,367440,Yes,Yes
+839,Other,5.8,Other,Hispanic,Other,Female,Africa,Fit,Arabic,High School Diploma,391438,No,No
+840,Other,5.7,Black,Other,Hindu,Other,Africa,Obese,English,High School Diploma,67297,No,Yes
+841,Hasel,4.6,Black,American,Christian,Male,Australia,Fit,English,University,168458,No,No
+842,Yellow,5.2,Beige,Caucasian,Hindu,Female,America,Fat,Arabic,Other,110053,Yes,Yes
+843,Blue,4.8,Black,Middle Eastern,Hindu,Male,Europe,Other,Mandarin,Other,141218,No,No
+844,Other,6.1,Brown,African,Buddhist,Male,Australia,Skinny,English,College,209519,Yes,Yes
+845,Yellow,5.9,White,African,Jewish,Male,Europe,Other,Russian,High School Diploma,399163,Yes,Yes
+846,Brown,6.4,Beige,American,Agnostic,Female,America,Skinny,Mandarin,University,270395,Yes,No
+847,Other,4.9,Brown,Caucasian,Hindu,Other,Other,Fat,French,Other,75761,Yes,Yes
+848,Brown,5.1,Beige,Asian,Christian,Female,Asia,Slim,Russian,High School Diploma,229348,No,No
+849,Brown,5.8,Brown,Asian,Hindu,Other,Other,Slim,Arabic,University,391283,Yes,No
+850,Hasel,5.0,Brown,Middle Eastern,Sikh,Male,Australia,Other,English,Other,238382,No,No
+851,Blue,6.0,Other,Middle Eastern,Christian,Other,America,Obese,English,High School Diploma,302719,No,Yes
+852,Gray,4.7,Beige,English,Agnostic,Other,Europe,Skinny,Arabic,Other,203559,Yes,No
+853,Brown,5.7,White,Indigenous,Buddhist,Female,Australia,Other,Mandarin,Other,70864,Yes,No
+854,Other,5.2,Tanned,Arab,Muslim,Male,Europe,Other,Mandarin,Other,58474,No,No
+855,Blue,5.6,White,American,Hindu,Female,Other,Other,Arabic,College,170261,No,Yes
+856,Gray,5.0,White,American,Muslim,Other,Other,Fat,Mandarin,College,326899,No,No
+857,Blue,5.2,Beige,Caucasian,Other,Other,Africa,Fat,French,High School Diploma,347918,Yes,No
+858,Yellow,4.9,Brown,Arab,Sikh,Female,Africa,Fit,Mandarin,Other,100504,No,No
+859,Blue,5.5,White,Arab,Agnostic,Other,Other,Obese,Arabic,University,173175,No,Yes
+860,Yellow,4.8,Black,Arab,Christian,Female,Australia,Obese,English,High School Diploma,197645,No,No
+861,Yellow,6.3,Beige,English,Jewish,Other,America,Other,French,High School Diploma,157048,No,Yes
+862,Brown,4.8,Other,African American,Christian,Other,Asia,Other,Arabic,High School Diploma,84865,Yes,Yes
+863,Other,4.7,White,Asian,Jewish,Female,Australia,Slim,English,College,127103,Yes,No
+864,Hasel,4.8,Tanned,African,Hindu,Male,Asia,Fit,Arabic,College,316801,Yes,Yes
+865,Other,6.4,White,Middle Eastern,Jewish,Male,Asia,Other,French,College,149709,No,Yes
+866,Other,5.5,White,African,Hindu,Female,Asia,Other,French,University,120205,Yes,Yes
+867,Other,6.3,Other,African,Other,Male,Australia,Slim,French,College,255903,No,Yes
+868,Blue,4.5,Brown,Other,Buddhist,Female,Asia,Obese,Russian,High School Diploma,291995,No,No
+869,Blue,4.9,Other,American,Other,Female,Australia,Skinny,Mandarin,University,316161,No,Yes
+870,Gray,5.6,Other,Arab,Jewish,Female,Africa,Other,French,University,176022,Yes,Yes
+871,Other,5.0,Brown,Asian,Jewish,Female,Asia,Fat,English,High School Diploma,372467,No,Yes
+872,Other,5.4,Other,Asian,Christian,Male,America,Fat,Mandarin,High School Diploma,184311,No,No
+873,Other,6.2,Tanned,Other,Jewish,Other,Australia,Obese,Russian,University,319806,Yes,Yes
+874,Brown,5.3,Beige,Indigenous,Jewish,Male,Australia,Other,Arabic,University,330804,Yes,Yes
+875,Yellow,6.1,Beige,Other,Buddhist,Male,Other,Obese,Russian,University,374318,No,Yes
+876,Gray,4.8,Tanned,Other,Buddhist,Male,Asia,Fit,English,Other,351036,Yes,Yes
+877,Brown,6.4,White,Middle Eastern,Atheist,Female,Europe,Other,English,University,71360,Yes,Yes
+878,Yellow,6.3,Tanned,Other,Christian,Female,Other,Obese,French,College,294769,Yes,No
+879,Green,5.3,Tanned,Caucasian,Buddhist,Male,Africa,Obese,Arabic,College,340216,Yes,Yes
+880,Hasel,4.8,White,Middle Eastern,Christian,Other,Other,Fit,Russian,Other,316549,No,No
+881,Other,5.1,Beige,English,Christian,Female,Europe,Fit,Russian,High School Diploma,286975,No,Yes
+882,Hasel,5.2,Beige,Hispanic,Jewish,Female,Europe,Fat,Russian,University,326825,No,Yes
+883,Yellow,5.0,Black,American,Sikh,Female,Australia,Fit,Arabic,Other,280923,Yes,Yes
+884,Blue,4.8,Brown,Hispanic,Jewish,Other,Other,Skinny,Mandarin,College,258337,No,No
+885,Other,5.7,Other,Caucasian,Sikh,Female,Europe,Slim,Mandarin,College,187419,No,Yes
+886,Blue,5.8,Other,African,Other,Other,Europe,Skinny,Mandarin,University,318266,Yes,No
+887,Yellow,5.8,Other,Asian,Other,Male,Asia,Skinny,Russian,College,158620,No,No
+888,Gray,5.2,Tanned,Arab,Buddhist,Female,Europe,Skinny,English,Other,305970,Yes,No
+889,Gray,5.2,White,Caucasian,Jewish,Female,Asia,Fit,French,Other,218684,No,No
+890,Brown,4.6,Other,Hispanic,Hindu,Male,Africa,Other,French,High School Diploma,322185,No,No
+891,Gray,6.1,Tanned,English,Atheist,Male,Europe,Fat,Arabic,University,168822,No,No
+892,Blue,5.6,Brown,English,Hindu,Female,Africa,Slim,Russian,College,275737,No,Yes
+893,Blue,4.8,Other,English,Buddhist,Female,America,Fat,Arabic,College,192539,Yes,Yes
+894,Brown,5.2,Beige,African,Buddhist,Female,Africa,Slim,Mandarin,Other,296200,No,Yes
+895,Hasel,4.8,Beige,Asian,Atheist,Other,Asia,Obese,Mandarin,University,48460,No,No
+896,Hasel,4.8,White,Hispanic,Other,Female,Other,Other,Russian,University,201197,No,No
+897,Gray,5.4,Black,Asian,Buddhist,Female,Australia,Skinny,French,University,81017,No,Yes
+898,Blue,4.9,White,Middle Eastern,Muslim,Male,Australia,Fit,French,University,170811,Yes,No
+899,Blue,5.9,Tanned,Other,Sikh,Other,Asia,Fat,Arabic,Other,157628,No,Yes
+900,Gray,4.7,White,Caucasian,Hindu,Other,Africa,Fat,Russian,University,187457,Yes,Yes
+901,Brown,5.7,Beige,Asian,Buddhist,Male,Australia,Fit,Mandarin,College,392333,No,Yes
+902,Hasel,5.6,Tanned,Middle Eastern,Jewish,Male,America,Skinny,English,University,296306,No,Yes
+903,Gray,5.9,Brown,Indigenous,Muslim,Male,Australia,Fit,English,University,94528,No,Yes
+904,Hasel,6.0,Brown,Indigenous,Hindu,Male,Africa,Fit,Arabic,College,258597,No,No
+905,Green,5.8,Tanned,African American,Jewish,Female,America,Fat,Arabic,College,353762,Yes,No
+906,Brown,6.2,Beige,Hispanic,Atheist,Male,Africa,Fat,English,Other,310773,Yes,No
+907,Hasel,6.5,White,Caucasian,Other,Male,Africa,Other,English,University,283804,No,No
+908,Green,5.3,Beige,Asian,Buddhist,Female,Europe,Other,Russian,High School Diploma,78296,No,No
+909,Gray,6.2,Black,Caucasian,Agnostic,Other,America,Other,English,University,105908,Yes,Yes
+910,Gray,4.8,White,Arab,Sikh,Male,Other,Other,Arabic,High School Diploma,257778,No,Yes
+911,Yellow,5.9,White,Caucasian,Jewish,Male,Other,Other,French,University,102383,No,No
+912,Blue,5.3,Beige,Indigenous,Atheist,Male,Africa,Fit,Russian,College,382528,No,No
+913,Green,6.4,Beige,African,Muslim,Female,Europe,Other,French,University,318758,Yes,Yes
+914,Green,5.8,Other,Indigenous,Muslim,Female,Europe,Skinny,Arabic,College,190896,No,No
+915,Other,5.3,Tanned,African,Muslim,Other,Asia,Skinny,Mandarin,Other,320891,Yes,No
+916,Gray,5.1,Black,Other,Sikh,Female,Asia,Obese,French,Other,378383,No,Yes
+917,Hasel,4.6,Black,Caucasian,Agnostic,Other,Africa,Slim,French,Other,127536,Yes,No
+918,Yellow,6.5,Tanned,Hispanic,Hindu,Male,America,Fat,Mandarin,University,391866,Yes,Yes
+919,Blue,4.7,Black,African American,Jewish,Male,Europe,Other,French,High School Diploma,364681,No,No
+920,Hasel,5.7,Black,American,Hindu,Female,America,Fit,English,University,152611,Yes,Yes
+921,Green,4.9,Other,English,Christian,Male,Australia,Obese,Russian,College,232745,Yes,No
+922,Blue,6.3,Tanned,Asian,Muslim,Other,Other,Other,Mandarin,College,321338,Yes,Yes
+923,Blue,5.3,Tanned,Asian,Other,Female,Other,Other,English,College,206445,Yes,Yes
+924,Blue,5.4,Black,Middle Eastern,Muslim,Male,Asia,Slim,Arabic,Other,306043,No,No
+925,Blue,4.9,White,African American,Hindu,Male,Asia,Obese,Mandarin,Other,387787,No,Yes
+926,Blue,5.4,Beige,English,Atheist,Female,Other,Fat,French,University,261907,No,No
+927,Other,4.6,Brown,Other,Agnostic,Male,America,Fat,Russian,Other,367253,No,Yes
+928,Brown,6.2,Black,Middle Eastern,Muslim,Male,Asia,Obese,Russian,University,194157,No,Yes
+929,Other,5.2,Beige,Hispanic,Other,Female,Asia,Fit,Russian,College,198705,Yes,No
+930,Hasel,5.4,Black,Other,Christian,Male,Other,Obese,Mandarin,Other,243717,No,Yes
+931,Green,5.8,White,African,Other,Male,Europe,Other,French,Other,237248,Yes,Yes
+932,Brown,4.8,White,Arab,Buddhist,Male,Australia,Slim,Mandarin,High School Diploma,295787,No,No
+933,Gray,5.9,Black,Caucasian,Other,Male,Europe,Fit,English,University,154166,Yes,No
+934,Blue,6.2,Other,English,Muslim,Female,America,Slim,Russian,High School Diploma,102849,No,No
+935,Brown,4.9,Black,Asian,Christian,Male,Australia,Fit,English,College,387633,Yes,No
+936,Other,5.5,Other,Hispanic,Hindu,Other,Asia,Fat,French,Other,210977,No,No
+937,Other,6.2,Tanned,Hispanic,Sikh,Female,Europe,Obese,French,University,264112,No,No
+938,Green,6.1,Tanned,Indigenous,Jewish,Male,Europe,Fit,Arabic,High School Diploma,289807,Yes,No
+939,Hasel,5.4,Beige,Arab,Muslim,Other,Other,Slim,Arabic,College,82133,Yes,Yes
+940,Green,5.9,Black,Middle Eastern,Muslim,Other,Europe,Slim,Russian,Other,68636,Yes,No
+941,Other,5.2,Black,American,Atheist,Female,Africa,Fit,French,University,116806,No,No
+942,Yellow,4.9,Tanned,American,Agnostic,Male,Australia,Fit,Mandarin,Other,221221,No,No
+943,Brown,6.2,Other,Hispanic,Muslim,Female,Africa,Other,Russian,College,238384,Yes,Yes
+944,Green,6.2,Tanned,Indigenous,Buddhist,Female,Asia,Fit,Arabic,College,119613,No,Yes
+945,Hasel,5.2,White,English,Jewish,Male,Australia,Skinny,Arabic,High School Diploma,152039,Yes,Yes
+946,Hasel,6.4,Black,Arab,Hindu,Other,America,Obese,Mandarin,University,136307,No,No
+947,Green,5.6,Black,American,Other,Other,Europe,Obese,French,College,40558,No,Yes
+948,Yellow,5.0,Beige,African,Christian,Male,America,Obese,Arabic,High School Diploma,112108,Yes,No
+949,Blue,4.7,Beige,Hispanic,Jewish,Male,Other,Other,Mandarin,University,361496,Yes,No
+950,Yellow,5.1,Other,African American,Sikh,Female,Europe,Other,Arabic,College,307464,Yes,Yes
+951,Other,4.6,White,American,Agnostic,Male,Europe,Fit,Arabic,College,232217,Yes,No
+952,Blue,4.7,White,English,Hindu,Female,Europe,Fit,English,University,371467,No,Yes
+953,Brown,5.8,White,Asian,Muslim,Male,Other,Skinny,French,High School Diploma,104981,No,Yes
+954,Other,5.7,Brown,Other,Buddhist,Other,Africa,Obese,Russian,High School Diploma,204522,Yes,Yes
+955,Other,5.2,Beige,Asian,Hindu,Female,Europe,Obese,Arabic,University,243903,Yes,Yes
+956,Gray,6.2,Tanned,Caucasian,Other,Female,Africa,Fat,French,Other,76751,Yes,Yes
+957,Brown,5.2,Tanned,Caucasian,Christian,Male,Other,Obese,Mandarin,University,239322,Yes,Yes
+958,Yellow,4.6,Other,Other,Christian,Other,Other,Slim,English,University,147703,Yes,No
+959,Blue,5.0,White,Hispanic,Atheist,Other,Other,Other,Russian,Other,114989,No,Yes
+960,Blue,5.4,Beige,Caucasian,Agnostic,Other,Other,Other,Arabic,College,258701,Yes,No
+961,Other,4.8,Brown,English,Other,Male,America,Other,French,College,214171,Yes,Yes
+962,Brown,4.9,Brown,African,Other,Female,Other,Fat,Mandarin,Other,342623,No,Yes
+963,Brown,6.1,Brown,Middle Eastern,Agnostic,Male,America,Fat,English,College,131221,Yes,Yes
+964,Brown,5.3,White,Arab,Other,Female,Australia,Other,Arabic,College,264163,Yes,No
+965,Hasel,6.4,Beige,Middle Eastern,Atheist,Other,America,Fat,Arabic,College,181717,No,Yes
+966,Green,5.4,Tanned,Arab,Buddhist,Female,Australia,Skinny,Arabic,Other,245007,No,Yes
+967,Brown,5.5,Black,English,Other,Other,America,Skinny,English,Other,113332,No,Yes
+968,Gray,5.9,Brown,Asian,Jewish,Other,Australia,Fit,Russian,High School Diploma,324599,No,Yes
+969,Hasel,5.0,Brown,Indigenous,Other,Male,Africa,Slim,English,High School Diploma,223419,Yes,Yes
+970,Brown,5.4,Tanned,Asian,Other,Other,Australia,Fat,Russian,College,64596,No,Yes
+971,Green,4.8,White,English,Hindu,Other,Africa,Slim,Russian,Other,200454,No,No
+972,Yellow,4.9,Black,African American,Jewish,Male,America,Skinny,Arabic,Other,383272,No,No
+973,Yellow,5.0,Beige,African American,Agnostic,Female,Other,Skinny,English,College,239006,Yes,Yes
+974,Other,6.3,Black,Indigenous,Buddhist,Other,Africa,Slim,Arabic,University,96188,Yes,Yes
+975,Hasel,5.5,Black,African,Atheist,Other,America,Fit,English,College,263536,Yes,Yes
+976,Blue,5.8,Black,Middle Eastern,Buddhist,Male,Asia,Obese,French,Other,77076,Yes,No
+977,Hasel,6.3,White,Middle Eastern,Agnostic,Female,Europe,Fat,Russian,High School Diploma,221801,No,No
+978,Other,6.4,Other,American,Other,Female,America,Slim,French,High School Diploma,348594,No,Yes
+979,Gray,6.2,Black,English,Other,Other,Australia,Other,Russian,High School Diploma,379785,Yes,No
+980,Yellow,5.9,Brown,Hispanic,Christian,Male,America,Other,Arabic,University,153877,Yes,No
+981,Other,5.3,Brown,Asian,Christian,Male,Asia,Skinny,Arabic,Other,217797,Yes,Yes
+982,Green,4.7,Brown,Indigenous,Hindu,Female,America,Fit,Mandarin,College,199573,Yes,No
+983,Yellow,5.5,White,English,Sikh,Other,Europe,Obese,Russian,Other,235210,Yes,Yes
+984,Blue,6.4,Beige,Caucasian,Christian,Male,Asia,Other,Russian,University,246662,Yes,Yes
+985,Gray,5.1,Other,Indigenous,Other,Male,Other,Slim,Mandarin,Other,289826,No,Yes
+986,Green,6.3,Beige,English,Other,Other,Australia,Fit,Arabic,College,323457,No,Yes
+987,Green,6.4,White,Middle Eastern,Atheist,Female,Asia,Fit,Russian,Other,182314,No,No
+988,Hasel,5.3,Tanned,Other,Agnostic,Male,Africa,Fit,Mandarin,College,338632,Yes,Yes
+989,Yellow,5.7,White,American,Muslim,Other,Africa,Fit,French,High School Diploma,137595,No,No
+990,Other,5.6,Other,African American,Other,Other,America,Obese,English,Other,141826,No,Yes
+991,Hasel,5.2,White,American,Agnostic,Other,Africa,Slim,English,University,46740,No,No
+992,Other,4.8,White,English,Agnostic,Male,Asia,Other,Mandarin,Other,309927,Yes,Yes
+993,Hasel,4.9,Black,African American,Muslim,Other,America,Other,French,College,246654,Yes,No
+994,Green,5.7,Tanned,Hispanic,Jewish,Female,Australia,Skinny,Arabic,College,197067,Yes,Yes
+995,Other,6.1,Black,Indigenous,Jewish,Other,Europe,Slim,English,University,73866,Yes,No
+996,Gray,4.7,Tanned,African,Jewish,Male,Africa,Slim,French,Other,354581,Yes,Yes
+997,Brown,4.9,Beige,Middle Eastern,Muslim,Female,Australia,Fat,Mandarin,Other,140737,Yes,Yes
+998,Green,4.5,Brown,Caucasian,Christian,Other,Asia,Slim,Mandarin,University,380400,Yes,No
+999,Brown,5.9,Black,Other,Other,Female,Australia,Skinny,English,College,285980,No,No
+1000,Green,4.7,Black,American,Atheist,Other,Africa,Obese,Mandarin,Other,147904,No,Yes
